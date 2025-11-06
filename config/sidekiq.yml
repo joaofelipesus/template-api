@@ -1,0 +1,20 @@
+---
+:concurrency: 5
+:timeout: 25
+
+# Set up queues with different priorities
+:queues:
+  - default
+  - mailers
+  - active_storage_analysis
+  - active_storage_purge
+
+# Configure Redis connection
+production:
+  :concurrency: 10
+
+development:
+  :concurrency: 5
+
+test:
+  :concurrency: 5

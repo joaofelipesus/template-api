@@ -233,6 +233,10 @@ GEM
       erb
       psych (>= 4.0.0)
       tsort
+    redis (5.4.1)
+      redis-client (>= 0.22.0)
+    redis-client (0.26.1)
+      connection_pool
     regexp_parser (2.11.3)
     reline (0.6.2)
       io-console (~> 0.5)
@@ -269,6 +273,12 @@ GEM
       ffi (~> 1.12)
       logger
     securerandom (0.4.1)
+    sidekiq (7.3.9)
+      base64
+      connection_pool (>= 2.3.0)
+      logger
+      rack (>= 2.2.4)
+      redis-client (>= 0.22.2)
     sqlite3 (2.7.4-aarch64-linux-gnu)
     sqlite3 (2.7.4-aarch64-linux-musl)
     sqlite3 (2.7.4-arm-linux-gnu)
@@ -321,7 +331,9 @@ DEPENDENCIES
   kamal
   puma (>= 5.0)
   rails (~> 8.1.1)
+  redis (>= 4.0.1)
   rubocop-rails-omakase
+  sidekiq (~> 7.0)
   sqlite3 (>= 2.1)
   thruster
   tzinfo-data
