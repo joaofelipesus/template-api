@@ -11,8 +11,8 @@ gem "puma", ">= 5.0"
 # Use Redis adapter to run Action Cable in production
 gem "redis", ">= 4.0.1"
 
-# Background job processing with Sidekiq
-gem "sidekiq", "~> 7.0"
+# Background job processing with SolidQueue
+gem "solid_queue"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
