@@ -1,0 +1,553 @@
+name,mana_cost,cmc,type_line,oracle_text,power,toughness,colors,color_identity,rarity,set_name,set,collector_number,artist,released_at,scryfall_uri,card_category
+"""Abandoned Air Temple""","",0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{3}{W}, {T}: Put a +1/+1 counter on each creature you control.",,,"",W,rare,Avatar: The Last Airbender,tla,263,Dom Lay,2025-11-21,https://scryfall.com/card/tla/263/abandoned-air-temple?utm_source=api,Land
+Abandoned Campground,"",0.0,Land,"This land enters tapped unless a player has 13 or less life.
+{T}: Add {W} or {U}.",,,"","U,W",common,Duskmourn: House of Horror,dsk,255,Cristi Balanescu,2024-09-27,https://scryfall.com/card/dsk/255/abandoned-campground?utm_source=api,Land
+Abandoned Outpost,"",0.0,Land,"This land enters tapped.
+{T}: Add {W}.
+{T}, Sacrifice this land: Add one mana of any color.",,,"",W,common,Odyssey,ody,312,"Edward P. Beard, Jr.",2001-10-01,https://scryfall.com/card/ody/312/abandoned-outpost?utm_source=api,Land
+A-Base Camp,"",0.0,Land,"{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.",,,"","",uncommon,Zendikar Rising,znr,A-257,Jokubas Uogintas,2020-09-25,https://scryfall.com/card/znr/A-257/a-base-camp?utm_source=api,Land
+Abraded Bluffs,"",0.0,Land — Desert,"This land enters tapped.
+When this land enters, it deals 1 damage to target opponent.
+{T}: Add {R} or {W}.",,,"","R,W",common,Outlaws of Thunder Junction,otj,251,Piotr Dura,2024-04-19,https://scryfall.com/card/otj/251/abraded-bluffs?utm_source=api,Land
+A-Bretagard Stronghold,"",0.0,Land,"Bretagard Stronghold enters tapped.
+{T}: Add {G}.
+{G}{W}{W}, {T}, Sacrifice Bretagard Stronghold: Distribute two +1/+1 counters among one or two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.",,,"","G,W",uncommon,Kaldheim,khm,A-253,Jung Park,2021-02-05,https://scryfall.com/card/khm/A-253/a-bretagard-stronghold?utm_source=api,Land
+Abstergo Entertainment,"",0.0,Legendary Land,"{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Exile Abstergo Entertainment: Return up to one target historic card from your graveyard to your hand, then exile all graveyards. (Artifacts, legendaries, and Sagas are historic.)",,,"","",rare,Assassin's Creed,acr,79,Alexander Gering,2024-07-05,https://scryfall.com/card/acr/79/abstergo-entertainment?utm_source=api,Land
+Academy Ruins,"",0.0,Legendary Land,"{T}: Add {C}.
+{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.",,,"",U,rare,Double Masters,2xm,309,Zoltan Boros & Gabor Szikszai,2020-08-07,https://scryfall.com/card/2xm/309/academy-ruins?utm_source=api,Land
+Access Tunnel,"",0.0,Land,"{T}: Add {C}.
+{3}, {T}: Target creature with power 3 or less can't be blocked this turn.",,,"","",uncommon,Tarkir: Dragonstorm Commander,tdc,337,Alayna Danner,2025-04-11,https://scryfall.com/card/tdc/337/access-tunnel?utm_source=api,Land
+Accursed Duneyard,"",0.0,Land,"{T}: Add {C}.
+{2}, {T}: Regenerate target Shade, Skeleton, Specter, Spirit, Vampire, Wraith, or Zombie. (The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)",,,"","",rare,Aetherdrift Commander,drc,20,Maxime Minard,2025-02-14,https://scryfall.com/card/drc/20/accursed-duneyard?utm_source=api,Land
+"Aclazotz, Deepest Betrayal // Temple of the Dead",,5.0,Legendary Creature — Bat God // Land,,,,"",B,mythic,The Lost Caverns of Ixalan,lci,88,Steve Prescott,2023-11-17,https://scryfall.com/card/lci/88/aclazotz-deepest-betrayal-temple-of-the-dead?utm_source=api,Land
+"Adagia, Windswept Bastion","",0.0,Land — Planet,"This land enters tapped.
+{T}: Add {W}.
+Station (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)
+STATION 12+
+{3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",,,"",W,mythic,Edge of Eternities,eoe,250,Adam Paquette,2025-08-01,https://scryfall.com/card/eoe/250/adagia-windswept-bastion?utm_source=api,Land
+Adarkar Wastes,"",0.0,Land,"{T}: Add {C}.
+{T}: Add {W} or {U}. This land deals 1 damage to you.",,,"","U,W",rare,Edge of Eternities Commander,eoc,147,Piotr Dura,2025-08-01,https://scryfall.com/card/eoc/147/adarkar-wastes?utm_source=api,Land
+A-Dungeon Descent,"",0.0,Land,"{T}: Add {C}.
+{1}, {T}, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery.",,,"","",rare,Adventures in the Forgotten Realms,afr,A-255,Kasia 'Kafis' Zielińska,2021-07-23,https://scryfall.com/card/afr/A-255/a-dungeon-descent?utm_source=api,Land
+Adventurers' Guildhouse,"",0.0,Land,"Green legendary creatures you control have ""bands with other legendary creatures."" (Any legendary creatures can attack in a band as long as at least one has ""bands with other legendary creatures."" Bands are blocked as a group. If at least two legendary creatures you control, one of which has ""bands with other legendary creatures,"" are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",,,"","",uncommon,Legends,leg,300,Tom Wänerstrand,1994-06-01,https://scryfall.com/card/leg/300/adventurers-guildhouse?utm_source=api,Land
+Adventurer's Inn,"",0.0,Land — Town,"When this land enters, you gain 2 life.
+{T}: Add {C}.",,,"","",common,Final Fantasy,fin,271,Allen Morris,2025-06-13,https://scryfall.com/card/fin/271/adventurers-inn?utm_source=api,Land
+Aether Hub,"",0.0,Land,"When this land enters, you get {E} (an energy counter).
+{T}: Add {C}.
+{T}, Pay {E}: Add one mana of any color.",,,"","",uncommon,Kaladesh,kld,242,Sam Burley,2016-09-30,https://scryfall.com/card/kld/242/aether-hub?utm_source=api,Land
+"Agadeem's Awakening // Agadeem, the Undercrypt",,3.0,Sorcery // Land,,,,"",B,mythic,Zendikar Rising,znr,90,Dmitry Burmak,2020-09-25,https://scryfall.com/card/znr/90/agadeems-awakening-agadeem-the-undercrypt?utm_source=api,Land
+Agna Qel'a,"",0.0,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {U}.
+{2}{U}, {T}: Draw a card, then discard a card.",,,"",U,rare,Avatar: The Last Airbender,tla,264,Dom Lay,2025-11-21,https://scryfall.com/card/tla/264/agna-qela?utm_source=api,Land
+A-Hall of Tagsin,"",0.0,Land,"{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}: Create a tapped Powerstone token. (It's an artifact with ""{T}: Add {C}. This mana can't be spent to cast a nonartifact spell."")",,,"","",rare,The Brothers' War,bro,A-263,Christian Dimitrov,2022-11-18,https://scryfall.com/card/bro/A-263/a-hall-of-tagsin?utm_source=api,Land
+_____,{1}{U},2.0,Creature — Shapeshifter,"{1}: This card's name becomes the card name of your choice. Activate anywhere, anytime.",1,1,U,U,uncommon,Unhinged,unh,23,Ron Spears,2004-11-19,https://scryfall.com/card/unh/23/_____?utm_source=api,Creature
+A-Acererak the Archlich,{2}{B},3.0,Legendary Creature — Zombie Wizard,"When Acererak the Archlich enters, if you haven't completed Tomb of Annihilation, return Acererak the Archlich to its owner's hand and venture into the dungeon.
+Whenever Acererak the Archlich attacks, create a number of 2/2 black Zombie creature tokens equal to the number of opponents you have.",5,5,B,B,mythic,Adventures in the Forgotten Realms,afr,A-87,Andrey Kuzinskiy,2021-07-23,https://scryfall.com/card/afr/A-87/a-acererak-the-archlich?utm_source=api,Creature
+A-Akki Ronin,{R},1.0,Creature — Goblin Samurai,"Whenever a Samurai or Warrior you control attacks alone, you may put a card from your hand on the bottom of your library. If you do, draw a card.",1,2,R,R,common,Kamigawa: Neon Dynasty,neo,A-131,Olivier Bernard,2022-02-18,https://scryfall.com/card/neo/A-131/a-akki-ronin?utm_source=api,Creature
+"A-Alrund, God of the Cosmos // A-Hakka, Whispering Raven",,5.0,Legendary Creature — God // Legendary Creature — Bird,,,,"",U,mythic,Kaldheim,khm,A-40,Kieran Yanner,2021-02-05,https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api,Creature
+"Aang, Airbending Master",{4}{W},5.0,Legendary Creature — Human Avatar Ally,"When Aang enters, airbend another target creature. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)
+Whenever one or more creatures you control leave the battlefield without dying, you get an experience counter.
+At the beginning of your upkeep, create a 1/1 white Ally creature token for each experience counter you have.",4,4,W,W,mythic,Avatar: The Last Airbender Eternal,tle,74,Tomoyo Asatani,2025-11-21,https://scryfall.com/card/tle/74/aang-airbending-master?utm_source=api,Creature
+"Aang, Air Nomad",{3}{W}{W},5.0,Legendary Creature — Human Avatar Ally,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+Vigilance (Attacking doesn't cause this creature to tap.)
+Other creatures you control have vigilance.",5,4,W,W,rare,Avatar: The Last Airbender Eternal,tle,210,Jinho Bae,2025-11-21,https://scryfall.com/card/tle/210/aang-air-nomad?utm_source=api,Creature
+"Aang, A Lot to Learn",{2}{G/W},3.0,Legendary Creature — Human Avatar Ally,"Aang has vigilance as long as there's a Lesson card in your graveyard.
+Whenever another creature you control dies, put a +1/+1 counter on Aang.",3,2,"G,W","G,W",uncommon,Avatar: The Last Airbender Eternal,tle,146,Tomoyo Asatani,2025-11-21,https://scryfall.com/card/tle/146/aang-a-lot-to-learn?utm_source=api,Creature
+Aang and Katara,{3}{G}{W}{U},6.0,Legendary Creature — Human Avatar Ally,"Whenever Aang and Katara enter or attack, create X 1/1 white Ally creature tokens, where X is the number of tapped artifacts and/or creatures you control.",5,5,"G,U,W","G,U,W",rare,Avatar: The Last Airbender Eternal,tle,69,Brian Yuen,2025-11-21,https://scryfall.com/card/tle/69/aang-and-katara?utm_source=api,Creature
+"Aang, at the Crossroads // Aang, Destined Savior",,5.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,,,,"","G,U,W",rare,Avatar: The Last Airbender,tla,203,Evan Shipard,2025-11-21,https://scryfall.com/card/tla/203/aang-at-the-crossroads-aang-destined-savior?utm_source=api,Creature
+"Aang, Swift Savior // Aang and La, Ocean's Fury",,3.0,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,,,,"","U,W",rare,Avatar: The Last Airbender,tla,204,Tetsuko,2025-11-21,https://scryfall.com/card/tla/204/aang-swift-savior-aang-and-la-oceans-fury?utm_source=api,Creature
+"Aang, the Last Airbender",{3}{W},4.0,Legendary Creature — Human Avatar Ally,"Flying
+When Aang enters, airbend up to one other target nonland permanent. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)
+Whenever you cast a Lesson spell, Aang gains lifelink until end of turn.",3,2,W,W,uncommon,Avatar: The Last Airbender,tla,4,Yueko,2025-11-21,https://scryfall.com/card/tla/4/aang-the-last-airbender?utm_source=api,Creature
+Aarakocra Sneak,{3}{U},4.0,Creature — Bird Rogue,"Flying
+When this creature enters, you take the initiative.",1,4,U,U,common,Commander Legends: Battle for Baldur's Gate,clb,54,Andrea Radeck,2022-06-10,https://scryfall.com/card/clb/54/aarakocra-sneak?utm_source=api,Creature
+A-Ardent Dustspeaker,{2}{R},3.0,Creature — Minotaur Shaman,"Whenever Ardent Dustspeaker attacks, you may put an instant or sorcery card from your graveyard on the bottom of your library. If you do, exile the top two cards of your library. You may play those cards this turn.",3,2,R,R,uncommon,Strixhaven: School of Mages,stx,A-92,Mads Ahm,2021-04-23,https://scryfall.com/card/stx/A-92/a-ardent-dustspeaker?utm_source=api,Creature
+Aardvark Sloth,{3}{W},4.0,Creature — Sloth Beast,Lifelink (Damage dealt by this creature also causes you to gain that much life.),3,3,W,W,common,Avatar: The Last Airbender Eternal,tle,212,Ionomycin,2025-11-21,https://scryfall.com/card/tle/212/aardvark-sloth?utm_source=api,Creature
+A-Armory Veteran,{1}{R},2.0,Creature — Orc Warrior,"Ward—Pay 2 life.
+As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)",2,2,R,R,common,Adventures in the Forgotten Realms,afr,A-130,Caio Monteiro,2021-07-23,https://scryfall.com/card/afr/A-130/a-armory-veteran?utm_source=api,Creature
+A-Asari Captain,{1}{R}{W},3.0,Creature — Human Samurai,"Trample, haste
+Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until end of turn for each Samurai or Warrior you control.",2,1,"R,W","R,W",uncommon,Kamigawa: Neon Dynasty,neo,A-215,Donato Giancola,2022-02-18,https://scryfall.com/card/neo/A-215/a-asari-captain?utm_source=api,Creature
+"Aatchik, Emerald Radian",{3}{B}{B}{G},6.0,Legendary Creature — Insect Druid,"When Aatchik enters, create a 1/1 green Insect creature token for each artifact and/or creature card in your graveyard.
+Whenever another Insect you control dies, put a +1/+1 counter on Aatchik. Each opponent loses 1 life.",3,3,"B,G","B,G",rare,Aetherdrift,dft,187,Loïc Canavaggia,2025-02-14,https://scryfall.com/card/dft/187/aatchik-emerald-radian?utm_source=api,Creature
+Abaddon the Despoiler,{2}{U}{B}{R},5.0,Legendary Creature — Astartes Warrior,"Trample
+Mark of Chaos Ascendant — During your turn, spells you cast from your hand with mana value X or less have cascade, where X is the total amount of life your opponents have lost this turn.",5,5,"B,R,U","B,R,U",mythic,"Warhammer 40,000 Commander",40k,2,Johan Grenier,2022-10-07,https://scryfall.com/card/40k/2/abaddon-the-despoiler?utm_source=api,Creature
+A-Baleful Beholder,{4}{B}{B},6.0,Creature — Beholder,"When Baleful Beholder enters, choose one —
+• Antimagic Cone — Each opponent sacrifices an enchantment.
+• Fear Ray — Creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)",7,5,B,B,common,Alchemy Horizons: Baldur's Gate,hbg,A-143,Lars Grant-West,2022-07-07,https://scryfall.com/card/hbg/A-143/a-baleful-beholder?utm_source=api,Creature
+Abattoir Ghoul,{3}{B},4.0,Creature — Zombie,"First strike
+Whenever a creature dealt damage by this creature this turn dies, you gain life equal to that creature's toughness.",3,2,B,B,uncommon,Duel Decks: Blessed vs. Cursed,ddq,50,Volkan Baǵa,2016-02-26,https://scryfall.com/card/ddq/50/abattoir-ghoul?utm_source=api,Creature
+Abbey Gargoyles,{2}{W}{W}{W},5.0,Creature — Gargoyle,"Flying, protection from red",3,4,W,W,uncommon,Masters Edition II,me2,1,Christopher Rush,2008-09-22,https://scryfall.com/card/me2/1/abbey-gargoyles?utm_source=api,Creature
+Abbey Griffin,{3}{W},4.0,Creature — Griffin,"Flying, vigilance",2,2,W,W,common,Innistrad,isd,1,Jaime Jones,2011-09-30,https://scryfall.com/card/isd/1/abbey-griffin?utm_source=api,Creature
+Abbey Matron,{2}{W},3.0,Creature — Human Cleric,"{W}, {T}: This creature gets +0/+3 until end of turn.",1,3,W,W,common,Homelands,hml,2a,Mike Kimble,1995-10-01,https://scryfall.com/card/hml/2a/abbey-matron?utm_source=api,Creature
+Abbot of Keral Keep,{1}{R},2.0,Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, exile the top card of your library. Until end of turn, you may play that card.",2,1,R,R,rare,Double Masters 2022,2x2,100,Deruchenko Alexander,2022-07-08,https://scryfall.com/card/2x2/100/abbot-of-keral-keep?utm_source=api,Creature
+"Abby, Merciless Soldier",{1}{R}{G},3.0,Legendary Creature — Human Survivor,"When you cast this spell, create a number of 1/1 black Fungus Zombie creature tokens named Cordyceps Infected equal to the amount of mana spent to cast it.
+Abby enters under the control of an opponent of your choice.
+Partner—Survivors (You can have two commanders if both have this ability.)",4,4,"G,R","G,R",mythic,Secret Lair Drop,sld,2202,Wayne Wu,2025-10-27,https://scryfall.com/card/sld/2202/abby-merciless-soldier?utm_source=api,Creature
+"Abdel Adrian, Gorion's Ward",{4}{W},5.0,Legendary Creature — Human Warrior,"When Abdel Adrian enters, exile any number of other nonland permanents you control until Abdel Adrian leaves the battlefield. Create a 1/1 white Soldier creature token for each permanent exiled this way.
+Choose a Background (You can have a Background as a second commander.)",4,4,W,W,uncommon,Commander Legends: Battle for Baldur's Gate,clb,2,Karl Kopinski,2022-06-10,https://scryfall.com/card/clb/2/abdel-adrian-gorions-ward?utm_source=api,Creature
+Aberrant,{X}{1}{G},2.0,Creature — Tyranid Mutant,"Ravenous (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)
+Trample
+Heavy Power Hammer — Whenever this creature deals combat damage to a player, destroy target artifact or enchantment that player controls.",0,0,G,G,uncommon,"Warhammer 40,000 Commander",40k,86,Games Workshop,2022-10-07,https://scryfall.com/card/40k/86/aberrant?utm_source=api,Creature
+Aberrant Mind Sorcerer,{4}{U},5.0,Creature — Human Elf Shaman,"Psionic Spells — When this creature enters, choose target instant or sorcery card in your graveyard, then roll a d20.
+1—9 | You may put that card on top of your library.
+10—20 | Return that card to your hand.",3,4,U,U,uncommon,Adventures in the Forgotten Realms,afr,44,Lius Lasahido,2021-07-23,https://scryfall.com/card/afr/44/aberrant-mind-sorcerer?utm_source=api,Creature
+Aberrant Researcher // Perfected Form,,4.0,Creature — Human Insect // Creature — Insect Horror,,,,"",U,uncommon,Innistrad Remastered,inr,52,Nils Hamm,2025-01-24,https://scryfall.com/card/inr/52/aberrant-researcher-perfected-form?utm_source=api,Creature
+Abhorrent Oculus,{2}{U},3.0,Creature — Eye,"As an additional cost to cast this spell, exile six cards from your graveyard.
+Flying
+At the beginning of each opponent's upkeep, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)",5,5,U,U,mythic,Duskmourn: House of Horror,dsk,42,Bryan Sola,2024-09-27,https://scryfall.com/card/dsk/42/abhorrent-oculus?utm_source=api,Creature
+Abhorrent Overlord,{5}{B}{B},7.0,Creature — Demon,"Flying
+When this creature enters, create a number of 1/1 black Harpy creature tokens with flying equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+At the beginning of your upkeep, sacrifice a creature.",6,6,B,B,rare,Theros,ths,75,Slawomir Maniak,2013-09-27,https://scryfall.com/card/ths/75/abhorrent-overlord?utm_source=api,Creature
+A-Binding Geist // A-Spectral Binding,,2.0,Creature — Spirit // Enchantment — Aura,,,,"",U,common,Innistrad: Crimson Vow,vow,A-48,Campbell White,2021-11-19,https://scryfall.com/card/vow/A-48/a-binding-geist-a-spectral-binding?utm_source=api,Creature
+A-Blessed Hippogriff // A-Tyr's Blessing,{3}{W} // {1}{W},4.0,Creature — Hippogriff // Instant — Adventure,,2,3,W,W,common,Alchemy Horizons: Baldur's Gate,hbg,A-85,Leanna Crossan,2022-07-07,https://scryfall.com/card/hbg/A-85/a-blessed-hippogriff-a-tyrs-blessing?utm_source=api,Creature
+A-Blood Artist,{1}{B},2.0,Creature — Vampire,"Whenever Blood Artist or another creature dies, target opponent loses 1 life and you gain 1 life.",0,1,B,B,uncommon,Jumpstart,jmp,A-206,Johannes Voss,2020-07-17,https://scryfall.com/card/jmp/A-206/a-blood-artist?utm_source=api,Creature
+Aboleth Spawn,{2}{U},3.0,Creature — Fish Horror,"Flash
+Ward {2}
+Probing Telepathy — Whenever a creature entering under an opponent's control causes a triggered ability of that creature to trigger, you may copy that ability. You may choose new targets for the copy.",2,3,U,U,rare,Commander Legends: Battle for Baldur's Gate,clb,662,Sam Burley,2022-06-10,https://scryfall.com/card/clb/662/aboleth-spawn?utm_source=api,Creature
+Abominable Treefolk,{2}{G}{U},4.0,Snow Creature — Treefolk,"Trample
+Abominable Treefolk's power and toughness are each equal to the number of snow permanents you control.
+When this creature enters, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",*,*,"G,U","G,U",uncommon,Modern Horizons,mh1,194,Jonas De Ro,2019-06-14,https://scryfall.com/card/mh1/194/abominable-treefolk?utm_source=api,Creature
+Abomination,{3}{B}{B},5.0,Creature — Horror,"Whenever this creature blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.",2,6,B,B,uncommon,Fourth Edition,4ed,117,Mark Tedin,1995-04-01,https://scryfall.com/card/4ed/117/abomination?utm_source=api,Creature
+Abomination of Gudul,{3}{B}{G}{U},6.0,Creature — Horror,"Flying
+Whenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.
+Morph {2}{B}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",3,4,"B,G,U","B,G,U",common,Khans of Tarkir,ktk,159,Erica Yang,2014-09-26,https://scryfall.com/card/ktk/159/abomination-of-gudul?utm_source=api,Creature
+Abomination of Llanowar,{1}{B}{G},3.0,Legendary Creature — Elf Horror,"Vigilance; menace (This creature can't be blocked except by two or more creatures.)
+Abomination of Llanowar's power and toughness are each equal to the number of Elves you control plus the number of Elf cards in your graveyard.",*,*,"B,G","B,G",uncommon,Kaldheim Commander,khc,81,Vincent Proce,2021-02-05,https://scryfall.com/card/khc/81/abomination-of-llanowar?utm_source=api,Creature
+Aboroth,{4}{G}{G},6.0,Creature — Elemental,"Cumulative upkeep—Put a -1/-1 counter on this creature. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",9,9,G,G,rare,Weatherlight,wth,117,Brom,1997-06-09,https://scryfall.com/card/wth/117/aboroth?utm_source=api,Creature
+"Aboshan, Cephalid Emperor",{4}{U}{U},6.0,Legendary Creature — Octopus Noble,"Tap an untapped Octopus you control: Tap target permanent.
+{U}{U}{U}: Tap all creatures without flying.",3,3,U,U,rare,Odyssey,ody,58,Christopher Moeller,2001-10-01,https://scryfall.com/card/ody/58/aboshan-cephalid-emperor?utm_source=api,Creature
+A-Briar Hydra,{3}{G},4.0,Creature — Plant Hydra,"Trample
+Domain — Whenever Briar Hydra deals combat damage to a player, put X +1/+1 counters on target creature you control, where X is the number of basic land types among lands you control.",5,5,G,G,rare,Dominaria United,dmu,A-286,Caio Monteiro,2022-09-09,https://scryfall.com/card/dmu/A-286/a-briar-hydra?utm_source=api,Creature
+A-Brine Comber // A-Brinebound Gift,,3.0,Creature — Spirit // Enchantment — Aura,,,,"","U,W",uncommon,Innistrad: Crimson Vow,vow,A-233,Olena Richards,2021-11-19,https://scryfall.com/card/vow/A-233/a-brine-comber-a-brinebound-gift?utm_source=api,Creature
+A-Bruenor Battlehammer,{2}{R}{W},4.0,Legendary Creature — Dwarf Warrior,"Each creature you control gets +2/+0 for each Equipment attached to it.
+{0}: Attach target Equipment you control to target creature you control. Activate only as a sorcery and only once each turn.",5,4,"R,W","R,W",uncommon,Adventures in the Forgotten Realms,afr,A-219,Wayne Reynolds,2021-07-23,https://scryfall.com/card/afr/A-219/a-bruenor-battlehammer?utm_source=api,Creature
+Absolute Virtue,{6}{W}{U},8.0,Legendary Creature — Avatar Warrior,"This spell can't be countered.
+Flying
+You have protection from each of your opponents. (You can't be dealt damage, enchanted, or targeted by anything controlled by your opponents.)",8,8,"U,W","U,W",mythic,Final Fantasy,fin,212,Toni Infante,2025-06-13,https://scryfall.com/card/fin/212/absolute-virtue?utm_source=api,Creature
+Absolver Thrull,{3}{W},4.0,Creature — Thrull Cleric,"Haunt (When this creature dies, exile it haunting target creature.)
+When this creature enters or the creature it haunts dies, destroy target enchantment.",2,3,W,W,common,Guildpact,gpt,1,Rob Alexander,2006-02-03,https://scryfall.com/card/gpt/1/absolver-thrull?utm_source=api,Creature
+Absolving Lammasu,{4}{W},5.0,Creature — Lammasu,"Flying
+When this creature enters, all suspected creatures are no longer suspected.
+When this creature dies, you gain 3 life and suspect up to one target creature an opponent controls. (A suspected creature has menace and can't block.)",4,3,W,W,uncommon,Murders at Karlov Manor,mkm,2,Izzy,2024-02-09,https://scryfall.com/card/mkm/2/absolving-lammasu?utm_source=api,Creature
+Abstract Iguanart,{1}{R},2.0,Creature — Art Lizard,"Whenever you cast a spell, note the first letter of its artist's name. If that letter wasn't already noted, put a +1/+1 counter on this creature.",1,1,R,R,uncommon,Unsanctioned,und,47,Chris Seaman,2020-02-29,https://scryfall.com/card/und/47/abstract-iguanart?utm_source=api,Creature
+Abstruse Archaic,{4},4.0,Creature — Avatar,"Vigilance
+{1}, {T}: Copy target activated or triggered ability you control from a colorless source. You may choose new targets for the copy. (Mana abilities can't be targeted.)",3,4,"","",rare,Commander Masters,cmm,712,Hristo D. Chukov,2023-08-04,https://scryfall.com/card/cmm/712/abstruse-archaic?utm_source=api,Creature
+"Abuelo, Ancestral Echo",{1}{W}{U},3.0,Legendary Creature — Spirit,"Flying, ward {2}
+{1}{W}{U}: Exile another target creature or artifact you control. Return it to the battlefield under its owner's control at the beginning of the next end step.",2,2,"U,W","U,W",rare,The Lost Caverns of Ixalan,lci,219,Victor Adame Minguez,2023-11-17,https://scryfall.com/card/lci/219/abuelo-ancestral-echo?utm_source=api,Creature
+Abu Ja'far,{W},1.0,Creature — Human,"When this creature dies, destroy all creatures blocking or blocked by it. They can't be regenerated.",0,1,W,W,uncommon,Chronicles,chr,1,"Ken Meyer, Jr.",1995-07-01,https://scryfall.com/card/chr/1/abu-jafar?utm_source=api,Creature
+Abuna Acolyte,{1}{W},2.0,Creature — Cat Cleric,"{T}: Prevent the next 1 damage that would be dealt to any target this turn.
+{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.",1,1,W,W,uncommon,Scars of Mirrodin,som,1,Igor Kieryluk,2010-10-01,https://scryfall.com/card/som/1/abuna-acolyte?utm_source=api,Creature
+Abundant Maw,{8},8.0,Creature — Eldrazi Leech,"Emerge {6}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, target opponent loses 3 life and you gain 3 life.",6,4,"",B,common,Innistrad Remastered,inr,1,Greg Staples,2025-01-24,https://scryfall.com/card/inr/1/abundant-maw?utm_source=api,Creature
+Abyssal Gatekeeper,{1}{B},2.0,Creature — Horror,"When this creature dies, each player sacrifices a creature of their choice.",1,1,B,B,common,Duel Decks Anthology: Divine vs. Demonic,dvd,31,Mark Tedin,2014-12-05,https://scryfall.com/card/dvd/31/abyssal-gatekeeper?utm_source=api,Creature
+Abyssal Gorestalker,{4}{B}{B},6.0,Creature — Horror,"When this creature enters, each player sacrifices two creatures of their choice.",6,6,B,B,uncommon,The Lost Caverns of Ixalan,lci,87,Maxime Minard,2023-11-17,https://scryfall.com/card/lci/87/abyssal-gorestalker?utm_source=api,Creature
+Abyssal Harvester,{1}{B}{B},3.0,Creature — Demon Warlock,"{T}: Exile target creature card from a graveyard that was put there this turn. Create a token that's a copy of it, except it's a Nightmare in addition to its other types. Then exile all other Nightmare tokens you control.",3,2,B,B,rare,Foundations,fdn,54,Diana Franco,2024-11-15,https://scryfall.com/card/fdn/54/abyssal-harvester?utm_source=api,Creature
+Abyssal Horror,{4}{B}{B},6.0,Creature — Horror,"Flying
+When this creature enters, target player discards two cards.",2,2,B,B,rare,Seventh Edition,7ed,115,Daren Bader,2001-04-11,https://scryfall.com/card/7ed/115/abyssal-horror?utm_source=api,Creature
+Abyssal Hunter,{3}{B},4.0,Creature — Human Assassin,"{B}, {T}: Tap target creature. This creature deals damage equal to its power to that creature.",1,1,B,B,rare,Classic Sixth Edition,6ed,109,Steve Luke,1999-04-21,https://scryfall.com/card/6ed/109/abyssal-hunter?utm_source=api,Creature
+Abyssal Nightstalker,{3}{B},4.0,Creature — Nightstalker,"Whenever this creature attacks and isn't blocked, defending player discards a card.",2,2,B,B,uncommon,Portal Second Age,p02,61,Sam Wood,1998-06-24,https://scryfall.com/card/p02/61/abyssal-nightstalker?utm_source=api,Creature
+Abyssal Nocturnus,{1}{B}{B},3.0,Creature — Horror,"Whenever an opponent discards a card, this creature gets +2/+2 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",2,2,B,B,rare,Guildpact,gpt,43,Jon Foster,2006-02-03,https://scryfall.com/card/gpt/43/abyssal-nocturnus?utm_source=api,Creature
+Abyssal Persecutor,{2}{B}{B},4.0,Creature — Demon,"Flying, trample
+You can't win the game and your opponents can't lose the game.",6,6,B,B,rare,Iconic Masters,ima,78,Chippy,2017-11-17,https://scryfall.com/card/ima/78/abyssal-persecutor?utm_source=api,Creature
+Abyssal Specter,{2}{B}{B},4.0,Creature — Specter,"Flying
+Whenever this creature deals damage to a player, that player discards a card.",2,3,B,B,uncommon,Modern Masters 2017,mm3,59,Daarken,2017-03-17,https://scryfall.com/card/mm3/59/abyssal-specter?utm_source=api,Creature
+Abzan Battle Priest,{3}{W},4.0,Creature — Human Cleric,"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has lifelink.",3,2,W,W,uncommon,March of the Machine Commander,moc,164,Chris Rahn,2023-04-21,https://scryfall.com/card/moc/164/abzan-battle-priest?utm_source=api,Creature
+Abzan Beastmaster,{2}{G},3.0,Creature — Dog Shaman,"At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.",2,1,G,G,uncommon,Fate Reforged,frf,119,Winona Nelson,2015-01-23,https://scryfall.com/card/frf/119/abzan-beastmaster?utm_source=api,Creature
+Abzan Devotee,{1}{B},2.0,Creature — Dog Cleric,"{1}: Add {W}, {B}, or {G}. Activate only once each turn.
+{2}{B}: Return this card from your graveyard to your hand.",2,1,B,"B,G,W",common,Tarkir: Dragonstorm,tdm,68,Forrest Imel,2025-04-11,https://scryfall.com/card/tdm/68/abzan-devotee?utm_source=api,Creature
+Abzan Falconer,{2}{W},3.0,Creature — Human Soldier,"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Each creature you control with a +1/+1 counter on it has flying.",2,3,W,W,uncommon,March of the Machine Commander,moc,165,Steven Belledin,2023-04-21,https://scryfall.com/card/moc/165/abzan-falconer?utm_source=api,Creature
+Abzan Guide,{3}{W}{B}{G},6.0,Creature — Human Warrior,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Morph {2}{W}{B}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",4,4,"B,G,W","B,G,W",common,Khans of Tarkir,ktk,162,Steve Prescott,2014-09-26,https://scryfall.com/card/ktk/162/abzan-guide?utm_source=api,Creature
+Abzan Kin-Guard,{3}{G},4.0,Creature — Human Warrior,This creature has lifelink as long as you control a white or black permanent.,3,3,G,G,uncommon,Fate Reforged,frf,120,Craig J Spearing,2015-01-23,https://scryfall.com/card/frf/120/abzan-kin-guard?utm_source=api,Creature
+Abzan Skycaptain,{3}{W},4.0,Creature — Bird Soldier,"Flying
+When this creature dies, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",2,2,W,W,common,Fate Reforged,frf,4,Matt Stewart,2015-01-23,https://scryfall.com/card/frf/4/abzan-skycaptain?utm_source=api,Creature
+Academy Drake,{2}{U},3.0,Creature — Drake,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Flying
+If this creature was kicked, it enters with two +1/+1 counters on it.",2,2,U,U,common,Dominaria,dom,40,Svetlin Velinov,2018-04-27,https://scryfall.com/card/dom/40/academy-drake?utm_source=api,Creature
+Academy Elite,{3}{U},4.0,Creature — Human Wizard,"This creature enters with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.
+{2}{U}, Remove a +1/+1 counter from this creature: Draw a card, then discard a card.",0,0,U,U,rare,Commander 2016,c16,81,Volkan Baǵa,2016-11-11,https://scryfall.com/card/c16/81/academy-elite?utm_source=api,Creature
+Academy Journeymage,{4}{U},5.0,Creature — Human Wizard,"This spell costs {1} less to cast if you control a Wizard.
+When this creature enters, return target creature an opponent controls to its owner's hand.",3,2,U,U,common,Dominaria,dom,41,Magali Villeneuve,2018-04-27,https://scryfall.com/card/dom/41/academy-journeymage?utm_source=api,Creature
+Academy Loremaster,{U}{U},2.0,Creature — Human Wizard,"At the beginning of each player's draw step, that player may draw an additional card. If they do, spells they cast this turn cost {2} more to cast.",2,3,U,U,rare,Dominaria United,dmu,40,Marcela Medeiros,2022-09-09,https://scryfall.com/card/dmu/40/academy-loremaster?utm_source=api,Creature
+Academy Manufactor,{3},3.0,Artifact Creature — Assembly-Worker,"If you would create a Clue, Food, or Treasure token, instead create one of each.",1,3,"","",rare,Outlaws of Thunder Junction Commander,otc,251,Campbell White,2024-04-19,https://scryfall.com/card/otc/251/academy-manufactor?utm_source=api,Creature
+Academy Raider,{2}{R},3.0,Creature — Human Warrior,"Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Whenever this creature deals combat damage to a player, you may discard a card. If you do, draw a card.",1,1,R,R,common,Magic 2014,m14,124,Karl Kopinski,2013-07-19,https://scryfall.com/card/m14/124/academy-raider?utm_source=api,Creature
+Academy Rector,{3}{W},4.0,Creature — Human Cleric,"When this creature dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle.",1,2,W,W,rare,Urza's Destiny,uds,1,Heather Hudson,1999-06-07,https://scryfall.com/card/uds/1/academy-rector?utm_source=api,Creature
+Academy Researchers,{1}{U}{U},3.0,Creature — Human Wizard,"When this creature enters, you may put an Aura card from your hand onto the battlefield attached to this creature.",2,2,U,U,uncommon,Tenth Edition,10e,63,Stephen Daniele,2007-07-13,https://scryfall.com/card/10e/63/academy-researchers?utm_source=api,Creature
+Academy Wall,{2}{U},3.0,Creature — Wall,"Defender
+Whenever you cast an instant or sorcery spell, you may draw a card. If you do, discard a card. This ability triggers only once each turn.",0,5,U,U,common,Dominaria United,dmu,41,Adam Paquette,2022-09-09,https://scryfall.com/card/dmu/41/academy-wall?utm_source=api,Creature
+A-Canopy Tactician,{3}{G},4.0,Creature — Elf Warrior,"Other Elves you control get +1/+1.
+{T}: Add {G}{G}{G}.",3,4,G,G,rare,Kaldheim,khm,A-378,Ekaterina Burmak,2021-02-05,https://scryfall.com/card/khm/A-378/a-canopy-tactician?utm_source=api,Creature
+A-Cauldron Familiar,{B},1.0,Creature — Cat,"A-Cauldron Familiar can't block.
+When Cauldron Familiar enters, each opponent loses 1 life and you gain 1 life.
+Sacrifice a Food: Return Cauldron Familiar from your graveyard to the battlefield.",1,1,B,B,uncommon,Throne of Eldraine,eld,A-81,Milivoj Ćeran,2019-10-04,https://scryfall.com/card/eld/A-81/a-cauldron-familiar?utm_source=api,Creature
+Accident-Prone Apprentice // Amphibian Accident,{1}{R} // {1}{U},2.0,Creature — Otter Wizard // Instant — Adventure,,1,1,R,"R,U",uncommon,Alchemy: Wilds of Eldraine,ywoe,16,Alexander Mokhov,2023-10-10,https://scryfall.com/card/ywoe/16/accident-prone-apprentice-amphibian-accident?utm_source=api,Creature
+Acclaimed Contender,{2}{W},3.0,Creature — Human Knight,"When this creature enters, if you control another Knight, look at the top five cards of your library. You may reveal a Knight, Aura, Equipment, or legendary artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",3,3,W,W,rare,March of the Machine Commander,moc,166,David Gaillet,2023-04-21,https://scryfall.com/card/moc/166/acclaimed-contender?utm_source=api,Creature
+Accomplished Alchemist,{3}{G},4.0,Creature — Elf Druid,"{T}: Add one mana of any color.
+{T}: Add X mana of any one color, where X is the amount of life you gained this turn.",2,5,G,G,rare,Strixhaven: School of Mages,stx,119,Randy Vargas,2021-04-23,https://scryfall.com/card/stx/119/accomplished-alchemist?utm_source=api,Creature
+Accomplished Automaton,{7},7.0,Artifact Creature — Construct,"Fabricate 1 (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",5,7,"","",common,Double Masters,2xm,230,Daarken,2020-08-07,https://scryfall.com/card/2xm/230/accomplished-automaton?utm_source=api,Creature
+Accorder Paladin,{1}{W},2.0,Creature — Human Knight,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",3,1,W,W,uncommon,Mirrodin Besieged,mbs,1,Kekai Kotaki,2011-02-04,https://scryfall.com/card/mbs/1/accorder-paladin?utm_source=api,Creature
+Accursed Centaur,{B},1.0,Creature — Zombie Centaur,"When this creature enters, sacrifice a creature.",2,2,B,B,common,Onslaught,ons,123,Jerry Tiritilli,2002-10-07,https://scryfall.com/card/ons/123/accursed-centaur?utm_source=api,Creature
+Accursed Horde,{3}{B},4.0,Creature — Zombie,"{1}{B}: Target attacking Zombie gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)",3,3,B,B,uncommon,Game Night 2019,gn2,26,Victor Adame Minguez,2019-11-15,https://scryfall.com/card/gn2/26/accursed-horde?utm_source=api,Creature
+Accursed Marauder,{1}{B},2.0,Creature — Zombie Warrior,"When this creature enters, each player sacrifices a nontoken creature of their choice.",2,1,B,B,common,Modern Horizons 3,mh3,80,Paolo Parente,2024-06-14,https://scryfall.com/card/mh3/80/accursed-marauder?utm_source=api,Creature
+Accursed Spirit,{3}{B},4.0,Creature — Spirit,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.),3,2,B,B,common,Magic 2015,m15,85,Kev Walker,2014-07-18,https://scryfall.com/card/m15/85/accursed-spirit?utm_source=api,Creature
+Accursed Witch // Infectious Curse,,4.0,Creature — Human Shaman // Enchantment — Aura Curse,,,,"",B,uncommon,Shadows over Innistrad,soi,97,Wesley Burt,2016-04-08,https://scryfall.com/card/soi/97/accursed-witch-infectious-curse?utm_source=api,Creature
+"Ace, Fearless Rebel",{3}{G},4.0,Legendary Creature — Human Rebel,"Nitro-9 — Whenever Ace attacks, you may sacrifice an artifact. When you do, put a +1/+1 counter on Ace, then it fights up to one target creature defending player controls.
+Doctor's companion (You can have two commanders if the other is the Doctor.)",2,2,G,G,rare,Doctor Who,who,98,Colin Boyer,2023-10-13,https://scryfall.com/card/who/98/ace-fearless-rebel?utm_source=api,Creature
+Ace Flockbringer,{1}{W}{U},3.0,Creature — Bird Scout,"Flying
+Whenever you cast a creature spell without flying, conjure a duplicate of it into your hand. The duplicate perpetually gains flying. This ability triggers only once each turn.",3,3,"U,W","U,W",rare,Alchemy: Bloomburrow,yblb,20,Henry Peters,2024-08-20,https://scryfall.com/card/yblb/20/ace-flockbringer?utm_source=api,Creature
+A-Celebrity Fencer,{3}{W},4.0,Creature — Elf Druid,"Alliance — Whenever another creature enters under your control, put a +1/+1 counter on Celebrity Fencer.",3,3,W,W,common,Streets of New Capenna,snc,A-7,Inka Schulz,2022-04-29,https://scryfall.com/card/snc/A-7/a-celebrity-fencer?utm_source=api,Creature
+A-Celestial Regulator,{1}{W}{U},3.0,Creature — Angel Advisor,"Flying
+When Celestial Regulator enters, choose target creature you don't control and tap it. If you control a creature with a counter on it, the chosen creature doesn't untap during its controller's next untap step.",1,4,"U,W","U,W",common,Streets of New Capenna,snc,A-174,Mathias Kollros,2022-04-29,https://scryfall.com/card/snc/A-174/a-celestial-regulator?utm_source=api,Creature
+Acererak the Archlich,{2}{B},3.0,Legendary Creature — Zombie Wizard,"When Acererak enters, if you haven't completed Tomb of Annihilation, return Acererak to its owner's hand and venture into the dungeon.
+Whenever Acererak attacks, for each opponent, you create a 2/2 black Zombie creature token unless that player sacrifices a creature of their choice.",5,5,B,B,mythic,Adventures in the Forgotten Realms,afr,87,Andrey Kuzinskiy,2021-07-23,https://scryfall.com/card/afr/87/acererak-the-archlich?utm_source=api,Creature
+Achilles Davenport,{2}{U}{B},4.0,Legendary Creature — Human Assassin,"Freerunning {U}{B} (You may cast this spell for its freerunning cost if you dealt combat damage to a player this turn with an Assassin or commander.)
+Menace (This creature can't be blocked except by two or more creatures.)
+Other Assassins you control get +1/+1.",3,3,"B,U","B,U",rare,Assassin's Creed,acr,294,Josu Solano,2024-07-05,https://scryfall.com/card/acr/294/achilles-davenport?utm_source=api,Creature
+Acidic Slime,{3}{G}{G},5.0,Creature — Ooze,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+When this creature enters, destroy target artifact, enchantment, or land.",2,2,G,G,uncommon,Commander Masters,cmm,270,Karl Kopinski,2023-08-04,https://scryfall.com/card/cmm/270/acidic-slime?utm_source=api,Creature
+Acidic Sliver,{B}{R},2.0,Creature — Sliver,"All Slivers have ""{2}, Sacrifice this permanent: This permanent deals 2 damage to any target.""",2,2,"B,R","B,R",uncommon,Tempest Remastered,tpr,206,Jeff Miracola,2015-05-06,https://scryfall.com/card/tpr/206/acidic-sliver?utm_source=api,Creature
+Acid-Spewer Dragon,{5}{B},6.0,Creature — Dragon,"Flying, deathtouch
+Megamorph {5}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When this creature is turned face up, put a +1/+1 counter on each other Dragon creature you control.",3,3,B,B,uncommon,Dragons of Tarkir,dtk,86,James Zapata,2015-03-27,https://scryfall.com/card/dtk/86/acid-spewer-dragon?utm_source=api,Creature
+Acid Web Spider,{3}{G}{G},5.0,Creature — Spider,"Reach
+When this creature enters, you may destroy target Equipment.",3,5,G,G,uncommon,Scars of Mirrodin,som,108,Austin Hsu,2010-10-01,https://scryfall.com/card/som/108/acid-web-spider?utm_source=api,Creature
+A-Circle of the Land Druid,{1}{G},2.0,Creature — Gnome Druid,"When Circle of the Land Druid enters, you may mill four cards. (You may put the top four cards of your library into your graveyard.)
+Natural Recovery — When Circle of the Land Druid dies, return target land card from your graveyard to your hand.",2,1,G,G,common,Alchemy Horizons: Baldur's Gate,hbg,A-203,Alexandre Honoré,2022-07-07,https://scryfall.com/card/hbg/A-203/a-circle-of-the-land-druid?utm_source=api,Creature
+A-Circuit Mender,{3},3.0,Artifact Creature — Insect,"When Circuit Mender enters, you gain 3 life.
+When Circuit Mender leaves the battlefield, draw a card.",2,3,"","",uncommon,Kamigawa: Neon Dynasty,neo,A-242,Hector Ortiz,2022-02-18,https://scryfall.com/card/neo/A-242/a-circuit-mender?utm_source=api,Creature
+A-Civil Servant,{G}{W},2.0,Creature — Cat Citizen,"Whenever Civil Servant attacks, you may tap another untapped Citizen you control. If you do, Civil Servant gets +1/+0 and gains trample until end of turn.",2,3,"G,W","G,W",common,Streets of New Capenna,snc,A-176,Tony Foti,2022-04-29,https://scryfall.com/card/snc/A-176/a-civil-servant?utm_source=api,Creature
+"Aclazotz, Deepest Betrayal // Temple of the Dead",,5.0,Legendary Creature — Bat God // Land,,,,"",B,mythic,The Lost Caverns of Ixalan,lci,88,Steve Prescott,2023-11-17,https://scryfall.com/card/lci/88/aclazotz-deepest-betrayal-temple-of-the-dead?utm_source=api,Land
+A-Cloister Gargoyle,{1}{W},2.0,Artifact Creature — Gargoyle,"When Cloister Gargoyle enters, venture into the dungeon. (Enter the first room or advance to the next room.)
+As long as you've completed a dungeon, Cloister Gargoyle gets +3/+0 and has flying.",0,3,W,W,uncommon,Adventures in the Forgotten Realms,afr,A-7,Mark Zug,2021-07-23,https://scryfall.com/card/afr/A-7/a-cloister-gargoyle?utm_source=api,Creature
+A-Cobbled Lancer,{U},1.0,Creature — Zombie Horse,"As an additional cost to cast this spell, exile a creature card from your graveyard.
+{1}{U}, Exile Cobbled Lancer from your graveyard: Draw a card.",3,3,U,U,uncommon,Innistrad: Crimson Vow,vow,A-52,Igor Kieryluk,2021-11-19,https://scryfall.com/card/vow/A-52/a-cobbled-lancer?utm_source=api,Creature
+Acolyte Hybrid,{2}{R},3.0,Creature — Tyranid Human,"Heavy Rock Cutter — Whenever this creature attacks, destroy up to one target artifact. If an artifact is destroyed this way, its controller draws a card.",2,2,R,R,uncommon,"Warhammer 40,000 Commander",40k,70,Slawomir Maniak,2022-10-07,https://scryfall.com/card/40k/70/acolyte-hybrid?utm_source=api,Creature
+Acolyte of Aclazotz,{2}{B},3.0,Creature — Vampire Cleric,"{T}, Sacrifice another creature or artifact: Each opponent loses 1 life and you gain 1 life.",1,4,B,B,common,The Lost Caverns of Ixalan,lci,89,Irina Nordsol,2023-11-17,https://scryfall.com/card/lci/89/acolyte-of-aclazotz?utm_source=api,Creature
+Acolyte of Affliction,{2}{B}{G},4.0,Creature — Human Cleric,"When this creature enters, mill two cards, then you may return a permanent card from your graveyard to your hand.",2,3,"B,G","B,G",uncommon,Theros Beyond Death,thb,206,Chase Stone,2020-01-24,https://scryfall.com/card/thb/206/acolyte-of-affliction?utm_source=api,Creature
+Acolyte of the Inferno,{2}{R},3.0,Creature — Human Monk,"Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
+Whenever this creature becomes blocked by a creature, it deals 2 damage to that creature.",3,1,R,R,uncommon,Magic Origins,ori,128,Joseph Meehan,2015-07-17,https://scryfall.com/card/ori/128/acolyte-of-the-inferno?utm_source=api,Creature
+Acolyte of Xathrid,{B},1.0,Creature — Human Cleric,"{1}{B}, {T}: Target player loses 1 life.",0,1,B,B,common,Magic 2010,m10,83,Chris Rahn,2009-07-17,https://scryfall.com/card/m10/83/acolyte-of-xathrid?utm_source=api,Creature
+"Acornelia, Fashionable Filcher",{3}{B},4.0,Legendary Creature — Squirrel,"Whenever you cast a spell with a squirrel in its art, you get {A} (an acorn counter).
+Whenever a Squirrel you control enters or dies, you get {A}.
+{2}{B}, Pay X {A}: Target creature gets -X/-X until end of turn.
+{G}, Pay X {A}: Target creature gets +X/+X until end of turn.",3,3,B,"B,G",rare,Unsanctioned,und,31,Bram Sels,2020-02-29,https://scryfall.com/card/und/31/acornelia-fashionable-filcher?utm_source=api,Creature
+A-Cosmos Charger,{2}{U},3.0,Creature — Horse Spirit,"Flash
+Flying
+Foretelling cards from your hand costs {1} less and can be done on any player's turn.
+Foretell {U}",3,2,U,U,rare,Kaldheim,khm,A-51,Nils Hamm,2021-02-05,https://scryfall.com/card/khm/A-51/a-cosmos-charger?utm_source=api,Creature
+Acquisition Octopus,{2}{U},3.0,Artifact Creature — Equipment Octopus,"Whenever this creature or equipped creature deals combat damage to a player, draw a card.
+Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",2,2,U,U,uncommon,Kamigawa: Neon Dynasty,neo,44,Francisco Miyara,2022-02-18,https://scryfall.com/card/neo/44/acquisition-octopus?utm_source=api,Creature
+Acquisitions Expert,{1}{B},2.0,Creature — Human Rogue,"When this creature enters, target opponent reveals a number of cards from their hand equal to the number of creatures in your party. You choose one of those cards. That player discards that card. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",1,2,B,B,uncommon,Zendikar Rising,znr,89,Anna Steinbauer,2020-09-25,https://scryfall.com/card/znr/89/acquisitions-expert?utm_source=api,Creature
+Acridian,{1}{G},2.0,Creature — Insect,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",2,4,G,G,common,Urza's Saga,usg,230,rk post,1998-10-12,https://scryfall.com/card/usg/230/acridian?utm_source=api,Creature
+Acrobatic Cheerleader,{1}{W},2.0,Creature — Human Survivor,"Survival — At the beginning of your second main phase, if this creature is tapped, put a flying counter on it. This ability triggers only once.",2,2,W,W,common,Duskmourn: House of Horror,dsk,1,Julia Metzger,2024-09-27,https://scryfall.com/card/dsk/1/acrobatic-cheerleader?utm_source=api,Creature
+Activated Sleeper,{2}{B},3.0,Creature — Phyrexian Shapeshifter,"Flash
+You may have this creature enter as a copy of any creature card in a graveyard that was put there from the battlefield this turn, except it's a Phyrexian in addition to its other types.",0,0,B,B,rare,Dominaria United Commander,dmc,24,Mathias Kollros,2022-09-09,https://scryfall.com/card/dmc/24/activated-sleeper?utm_source=api,Creature
+"Adamaro, First to Desire",{1}{R}{R},3.0,Legendary Creature — Spirit,Adamaro's power and toughness are each equal to the number of cards in the hand of the opponent with the most cards in hand.,*,*,R,R,rare,Saviors of Kamigawa,sok,91,Paolo Parente,2005-06-03,https://scryfall.com/card/sok/91/adamaro-first-to-desire?utm_source=api,Creature
+Adanto Vanguard,{1}{W},2.0,Creature — Vampire Soldier,"As long as this creature is attacking, it gets +2/+0.
+Pay 4 life: This creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",1,1,W,W,uncommon,Ixalan,xln,1,Anna Steinbauer,2017-09-29,https://scryfall.com/card/xln/1/adanto-vanguard?utm_source=api,Creature
+Adaptive Automaton,{3},3.0,Artifact Creature — Construct,"As this creature enters, choose a creature type.
+This creature is the chosen type in addition to its other types.
+Other creatures you control of the chosen type get +1/+1.",2,2,"","",rare,Foundations,fdn,723,Igor Kieryluk,2024-11-15,https://scryfall.com/card/fdn/723/adaptive-automaton?utm_source=api,Creature
+Adaptive Gemguard,{3}{W},4.0,Artifact Creature — Gnome,Tap two untapped artifacts and/or creatures you control: Put a +1/+1 counter on this creature. Activate only as a sorcery.,3,3,W,W,common,The Lost Caverns of Ixalan,lci,3,Anthony Devine,2023-11-17,https://scryfall.com/card/lci/3/adaptive-gemguard?utm_source=api,Creature
+Adaptive Shimmerer,{5},5.0,Creature — Insect,"Flash
+This creature enters with three +1/+1 counters on it.",0,0,"","",common,Ikoria: Lair of Behemoths,iko,1,Jason Felix,2020-04-24,https://scryfall.com/card/iko/1/adaptive-shimmerer?utm_source=api,Creature
+Adaptive Snapjaw,{4}{G},5.0,Creature — Lizard Beast,"Evolve (Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",6,2,G,G,common,Gatecrash,gtc,113,Tomasz Jedruszek,2013-02-01,https://scryfall.com/card/gtc/113/adaptive-snapjaw?utm_source=api,Creature
+Adaptive Sporesinger,{2}{G},3.0,Creature — Phyrexian Druid,"Vigilance
+When this creature enters, choose one —
+• Target creature gets +2/+2 and gains vigilance until end of turn.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",2,2,G,G,common,Phyrexia: All Will Be One,one,157,Dave Kendall,2023-02-10,https://scryfall.com/card/one/157/adaptive-sporesinger?utm_source=api,Creature
+Adarkar Sentinel,{5},5.0,Artifact Creature — Soldier,{1}: This creature gets +0/+1 until end of turn.,3,3,"","",common,Masters Edition II,me2,201,Melissa A. Benson,2008-09-22,https://scryfall.com/card/me2/201/adarkar-sentinel?utm_source=api,Creature
+Adarkar Unicorn,{1}{W}{W},3.0,Creature — Unicorn,{T}: Add {U} or {C}{U}. Spend this mana only to pay cumulative upkeep costs.,2,2,W,"U,W",common,Ice Age,ice,1,Quinton Hoover,1995-06-03,https://scryfall.com/card/ice/1/adarkar-unicorn?utm_source=api,Creature
+Adarkar Valkyrie,{4}{W}{W},6.0,Snow Creature — Angel,"Flying, vigilance
+{T}: When target creature other than this creature dies this turn, return that card to the battlefield under your control.",4,5,W,W,rare,Commander 2018,c18,60,Jeremy Jarvis,2018-08-10,https://scryfall.com/card/c18/60/adarkar-valkyrie?utm_source=api,Creature
+Adarkar Windform,{4}{U},5.0,Snow Creature — Illusion,"Flying
+{1}{S}: Target creature loses flying until end of turn. ({S} can be paid with one mana from a snow source.)",3,3,U,U,uncommon,Coldsnap,csp,26,Randy Gallegos,2006-07-21,https://scryfall.com/card/csp/26/adarkar-windform?utm_source=api,Creature
+A-Dawnbringer Cleric,{1}{W},2.0,Creature — Human Cleric,"When Dawnbringer Cleric enters, choose one —
+• Cure Wounds — You gain 2 life.
+• Dispel Magic — Destroy target enchantment.
+• Gentle Repose — Exile target card from a graveyard.",1,4,W,W,common,Adventures in the Forgotten Realms,afr,A-9,Lie Setiawan,2021-07-23,https://scryfall.com/card/afr/A-9/a-dawnbringer-cleric?utm_source=api,Creature
+Adder-Staff Boggart,{1}{R},2.0,Creature — Goblin Warrior,"When this creature enters, clash with an opponent. If you win, put a +1/+1 counter on this creature. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",2,1,R,R,common,Lorwyn,lrw,148,Jeff Miracola,2007-10-12,https://scryfall.com/card/lrw/148/adder-staff-boggart?utm_source=api,Creature
+A-Death-Priest of Myrkul,{2}{B}{B},4.0,Creature — Tiefling Cleric,"Skeletons, Vampires, and Zombies you control get +1/+1.
+At the beginning of your end step, if a creature died this turn, create a 1/1 black Skeleton creature token.",3,3,B,B,uncommon,Adventures in the Forgotten Realms,afr,A-95,Lius Lasahido,2021-07-23,https://scryfall.com/card/afr/A-95/a-death-priest-of-myrkul?utm_source=api,Creature
+Adelbert Steiner,{1}{W},2.0,Legendary Creature — Human Knight,"Lifelink
+Adelbert Steiner gets +1/+1 for each Equipment you control.",2,1,W,W,uncommon,Final Fantasy,fin,3,Lorenzo Mastroianni,2025-06-13,https://scryfall.com/card/fin/3/adelbert-steiner?utm_source=api,Creature
+"Adeline, Resplendent Cathar",{1}{W}{W},3.0,Legendary Creature — Human Knight,"Vigilance
+Adeline's power is equal to the number of creatures you control.
+Whenever you attack, for each opponent, create a 1/1 white Human creature token that's tapped and attacking that player or a planeswalker they control.",*,4,W,W,rare,Tarkir: Dragonstorm Commander,tdc,108,Bryan Sola,2025-04-11,https://scryfall.com/card/tdc/108/adeline-resplendent-cathar?utm_source=api,Creature
+"Adeliz, the Cinder Wind",{1}{U}{R},3.0,Legendary Creature — Human Wizard,"Flying, haste
+Whenever you cast an instant or sorcery spell, Wizards you control get +1/+1 until end of turn.",2,2,"R,U","R,U",uncommon,Dominaria,dom,190,Zezhou Chen,2018-04-27,https://scryfall.com/card/dom/190/adeliz-the-cinder-wind?utm_source=api,Creature
+A-Demilich,{U}{U}{U}{U},4.0,Creature — Skeleton Wizard,"This spell costs {U} less to cast for each instant and sorcery spell you've cast this turn.
+Whenever Demilich attacks, exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+You may cast Demilich from your graveyard by exiling four instant and/or sorcery cards from your graveyard in addition to paying its other costs.",4,4,U,U,mythic,Adventures in the Forgotten Realms,afr,A-53,Daniel Zrom,2021-07-23,https://scryfall.com/card/afr/A-53/a-demilich?utm_source=api,Creature
+A-Devoted Grafkeeper // A-Departed Soulkeeper,,2.0,Creature — Human Peasant // Creature — Spirit,,,,"","U,W",uncommon,Innistrad: Midnight Hunt,mid,A-218,Raoul Vitale,2021-09-24,https://scryfall.com/card/mid/A-218/a-devoted-grafkeeper-a-departed-soulkeeper?utm_source=api,Creature
+"Adéwalé, Breaker of Chains",{1}{U}{B},3.0,Legendary Creature — Human Assassin Pirate,"When Adéwalé enters, reveal the top six cards of your library. Put an Assassin, Pirate, or Vehicle card from among them into your hand and the rest on the bottom of your library in a random order.
+Whenever a Vehicle you control deals combat damage to a player, you may return this card from your graveyard to your hand.",4,1,"B,U","B,U",uncommon,Assassin's Creed,acr,44,Justyna Dura,2024-07-05,https://scryfall.com/card/acr/44/ad%C3%A9wal%C3%A9-breaker-of-chains?utm_source=api,Creature
+Adherent of Hope,{1}{W},2.0,Creature — Human Soldier,"At the beginning of combat on your turn, if you control a Basri planeswalker, put a +1/+1 counter on this creature.",2,1,W,W,common,Core Set 2021,m21,321,Dan Murayama Scott,2020-07-03,https://scryfall.com/card/m21/321/adherent-of-hope?utm_source=api,Creature
+Adipose Offspring,{3}{W},4.0,Creature — Alien,"Emerge {5}{W} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When this creature enters, create a 2/2 white Alien creature token. If this creature's emerge cost was paid, instead create X of those tokens, where X is the sacrificed creature's toughness.",2,2,W,W,rare,Doctor Who,who,10,John Tedrick,2023-10-13,https://scryfall.com/card/who/10/adipose-offspring?utm_source=api,Creature
++2 Mace,{1}{W},2.0,Artifact — Equipment,"Equipped creature gets +2/+2.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",,,W,W,common,Adventures in the Forgotten Realms,afr,1,Jarel Threat,2021-07-23,https://scryfall.com/card/afr/1/+2-mace?utm_source=api,Spell
+A-Alrund's Epiphany,{5}{U}{U},7.0,Sorcery,"Take an extra turn after this one. If this spell was foretold, create two 1/1 blue Bird creature tokens with flying. Exile Alrund's Epiphany.
+Foretell {5}{U}{U}",,,U,U,mythic,Kaldheim,khm,A-41,Kieran Yanner,2021-02-05,https://scryfall.com/card/khm/A-41/a-alrunds-epiphany?utm_source=api,Spell
+A-Ancestral Katana,{1}{W},2.0,Artifact — Equipment,"Whenever a Samurai or Warrior you control attacks alone, you may pay {1}. When you do, attach Ancestral Katana to it.
+Equipped creature gets +2/+2 and has ""This creature has first strike as long as it's attacking.""
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,W,W,common,Kamigawa: Neon Dynasty,neo,A-1,Daniel Ljunggren,2022-02-18,https://scryfall.com/card/neo/A-1/a-ancestral-katana?utm_source=api,Spell
+Aang's Defense,{W},1.0,Instant,"Target blocking creature you control gets +2/+2 until end of turn.
+Draw a card.",,,W,W,common,Avatar: The Last Airbender Eternal,tle,211,Jo Cordisco,2025-11-21,https://scryfall.com/card/tle/211/aangs-defense?utm_source=api,Spell
+Aang's Iceberg,{2}{W},3.0,Enchantment,"Flash
+When this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.
+Waterbend {3}: Sacrifice this enchantment. If you do, scry 2. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",,,W,W,rare,Avatar: The Last Airbender,tla,5,Matteo Bassini,2025-11-21,https://scryfall.com/card/tla/5/aangs-iceberg?utm_source=api,Spell
+Aang's Journey,{2},2.0,Sorcery — Lesson,"Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Search your library for a basic land card. If this spell was kicked, instead search your library for a basic land card and a Shrine card. Reveal those cards, put them into your hand, then shuffle.
+You gain 2 life.",,,"","",common,Avatar: The Last Airbender,tla,1,Kotakan,2025-11-21,https://scryfall.com/card/tla/1/aangs-journey?utm_source=api,Spell
+Aardwolf's Advantage,{2}{R},3.0,Sorcery,Creatures you control get +2/+0 and gain alpha strike until end of turn. (A creature with alpha strike has first strike as long as it's blocking or being blocked by a creature that comes after it alphabetically.),,,R,R,common,Unfinity,unf,97,Tomek Larek,2022-10-07,https://scryfall.com/card/unf/97/aardwolfs-advantage?utm_source=api,Spell
+Abandon Attachments,{1}{U/R},2.0,Instant — Lesson,"You may discard a card. If you do, draw two cards.",,,"R,U","R,U",common,Avatar: The Last Airbender,tla,205,Shahab Alizadeh,2025-11-21,https://scryfall.com/card/tla/205/abandon-attachments?utm_source=api,Spell
+Abandoned Sarcophagus,{3},3.0,Artifact,"You may cast spells that have a cycling ability from your graveyard.
+If a card that has a cycling ability would be put into your graveyard from anywhere and it wasn't cycled, exile it instead.",,,"","",rare,Commander 2020,c20,236,Daarken,2020-04-17,https://scryfall.com/card/c20/236/abandoned-sarcophagus?utm_source=api,Spell
+Abandon Hope,{X}{1}{B},2.0,Sorcery,"As an additional cost to cast this spell, discard X cards.
+Look at target opponent's hand and choose X cards from it. That player discards those cards.",,,B,B,uncommon,Tempest,tmp,107,Alan Pollack,1997-10-14,https://scryfall.com/card/tmp/107/abandon-hope?utm_source=api,Spell
+Abandon Reason,{2}{R},3.0,Instant,"Up to two target creatures each get +1/+0 and gain first strike until end of turn. (They deal combat damage before creatures without first strike.)
+Madness {1}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",,,R,R,uncommon,Eldritch Moon,emn,115,Josh Hass,2016-07-22,https://scryfall.com/card/emn/115/abandon-reason?utm_source=api,Spell
+Abandon the Post,{1}{R},2.0,Sorcery,"Up to two target creatures can't block this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,R,R,common,Innistrad: Midnight Hunt,mid,127,Zoltan Boros,2021-09-24,https://scryfall.com/card/mid/127/abandon-the-post?utm_source=api,Spell
+Abduction,{2}{U}{U},4.0,Enchantment — Aura,"Enchant creature
+When this Aura enters, untap enchanted creature.
+You control enchanted creature.
+When enchanted creature dies, return that card to the battlefield under its owner's control.",,,U,U,uncommon,Classic Sixth Edition,6ed,55,Colin MacNeil,1999-04-21,https://scryfall.com/card/6ed/55/abduction?utm_source=api,Spell
+Abeyance,{1}{W},2.0,Instant,"Until end of turn, target player can't cast instant or sorcery spells, and that player can't activate abilities that aren't mana abilities.
+Draw a card.",,,W,W,rare,Weatherlight,wth,1,Thomas Gianni,1997-06-09,https://scryfall.com/card/wth/1/abeyance?utm_source=api,Spell
+Abiding Grace,{2}{W},3.0,Enchantment,"At the beginning of your end step, choose one —
+• You gain 1 life.
+• Return target creature card with mana value 1 from your graveyard to the battlefield.",,,W,W,uncommon,Modern Horizons 2,mh2,1,Ravenna Tran,2021-06-18,https://scryfall.com/card/mh2/1/abiding-grace?utm_source=api,Spell
+Abjure,{U},1.0,Instant,"As an additional cost to cast this spell, sacrifice a blue permanent.
+Counter target spell.",,,U,U,common,Weatherlight,wth,31,Ted Naifeh,1997-06-09,https://scryfall.com/card/wth/31/abjure?utm_source=api,Spell
+Abnormal Endurance,{1}{B},2.0,Instant,"Until end of turn, target creature gets +2/+0 and gains ""When this creature dies, return it to the battlefield tapped under its owner's control.""",,,B,B,common,Core Set 2019,m19,85,Tomasz Jedruszek,2018-07-13,https://scryfall.com/card/m19/85/abnormal-endurance?utm_source=api,Spell
+Abolish,{1}{W}{W},3.0,Instant,"You may discard a Plains card rather than pay this spell's mana cost.
+Destroy target artifact or enchantment.",,,W,W,uncommon,Duel Decks: Elspeth vs. Tezzeret,ddf,29,Kev Walker,2010-09-03,https://scryfall.com/card/ddf/29/abolish?utm_source=api,Spell
+Aboshan's Desire,{U},1.0,Enchantment — Aura,"Enchant creature
+Enchanted creature has flying.
+Threshold — Enchanted creature has shroud as long as seven or more cards are in your graveyard. (It can't be the target of spells or abilities.)",,,U,U,common,Odyssey,ody,59,Ciruelo,2001-10-01,https://scryfall.com/card/ody/59/aboshans-desire?utm_source=api,Spell
+About Face,{R},1.0,Instant,Switch target creature's power and toughness until end of turn.,,,R,R,common,Urza's Legacy,ulg,73,Melissa A. Benson,1999-02-15,https://scryfall.com/card/ulg/73/about-face?utm_source=api,Spell
+Abrade,{1}{R},2.0,Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",,,R,R,uncommon,Tarkir: Dragonstorm Commander,tdc,203,Jonas De Ro,2025-04-11,https://scryfall.com/card/tdc/203/abrade?utm_source=api,Spell
+Abrupt Decay,{B}{G},2.0,Instant,"This spell can't be countered.
+Destroy target nonland permanent with mana value 3 or less.",,,"B,G","B,G",rare,Modern Masters 2017,mm3,146,Svetlin Velinov,2017-03-17,https://scryfall.com/card/mm3/146/abrupt-decay?utm_source=api,Spell
+Absolute Grace,{1}{W},2.0,Enchantment,All creatures have protection from black.,,,W,W,uncommon,Urza's Saga,usg,1,Jeff Miracola,1998-10-12,https://scryfall.com/card/usg/1/absolute-grace?utm_source=api,Spell
+Absolute Law,{1}{W},2.0,Enchantment,All creatures have protection from red.,,,W,W,uncommon,Urza's Saga,usg,2,Mark Zug,1998-10-12,https://scryfall.com/card/usg/2/absolute-law?utm_source=api,Spell
+Absorb,{W}{U}{U},3.0,Instant,Counter target spell. You gain 3 life.,,,"U,W","U,W",rare,Dominaria Remastered,dmr,186,Andrew Goldhawk,2023-01-13,https://scryfall.com/card/dmr/186/absorb?utm_source=api,Spell
+Absorb Energy,{1}{U}{U},3.0,Instant,"Counter target spell. Cards in your hand that share a card type with that spell perpetually gain ""This spell costs {1} less to cast.""",,,U,U,rare,Alchemy: Innistrad,ymid,12,Steve Argyle,2021-12-09,https://scryfall.com/card/ymid/12/absorb-energy?utm_source=api,Spell
+Absorb Identity,{1}{U},2.0,Instant,Return target creature to its owner's hand. You may have Shapeshifters you control become copies of that creature until end of turn.,,,U,U,uncommon,Kaldheim,khm,383,Matt Stewart,2021-02-05,https://scryfall.com/card/khm/383/absorb-identity?utm_source=api,Spell
+Absorb Vis,{6}{B},7.0,Sorcery,"Target player loses 4 life and you gain 4 life.
+Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",,,B,B,common,Conspiracy: Take the Crown,cn2,126,Brandon Kitkouski,2016-08-26,https://scryfall.com/card/cn2/126/absorb-vis?utm_source=api,Spell
+Abstruse Appropriation,{2}{W}{B},4.0,Instant,"Devoid (This card has no color.)
+Exile target nonland permanent. You may cast that card for as long as it remains exiled, and you may spend colorless mana as though it were mana of any color to cast that spell.",,,"","B,W",rare,Modern Horizons 3,mh3,177,Jason Rainville,2024-06-14,https://scryfall.com/card/mh3/177/abstruse-appropriation?utm_source=api,Spell
+Abstruse Interference,{2}{U},3.0,Instant,"Devoid (This card has no color.)
+Counter target spell unless its controller pays {1}. You create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this token: Add {C}."" ({C} represents colorless mana.)",,,"",U,common,Oath of the Gatewatch,ogw,40,Igor Kieryluk,2016-01-22,https://scryfall.com/card/ogw/40/abstruse-interference?utm_source=api,Spell
+Abuelo's Awakening,{X}{3}{W},4.0,Sorcery,Return target artifact or non-Aura enchantment card from your graveyard to the battlefield with X additional +1/+1 counters on it. It's a 1/1 Spirit creature with flying in addition to its other types.,,,W,W,rare,The Lost Caverns of Ixalan,lci,1,Eelis Kyttanen,2023-11-17,https://scryfall.com/card/lci/1/abuelos-awakening?utm_source=api,Spell
+Abuna's Chant,{3}{W},4.0,Instant,"Choose one —
+• You gain 5 life.
+• Prevent the next 5 damage that would be dealt to target creature this turn.
+Entwine {2} (Choose both if you pay the entwine cost.)",,,W,W,common,Fifth Dawn,5dn,1,John Matson,2004-06-04,https://scryfall.com/card/5dn/1/abunas-chant?utm_source=api,Spell
+Abundance,{2}{G}{G},4.0,Enchantment,"If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.",,,G,G,rare,Commander Masters,cmm,884,Rebecca Guay,2023-08-04,https://scryfall.com/card/cmm/884/abundance?utm_source=api,Spell
+Abundant Growth,{G},1.0,Enchantment — Aura,"Enchant land
+When this Aura enters, draw a card.
+Enchanted land has ""{T}: Add one mana of any color.""",,,G,G,common,Innistrad Remastered,inr,184,Vincent Proce,2025-01-24,https://scryfall.com/card/inr/184/abundant-growth?utm_source=api,Spell
+Abundant Harvest,{G},1.0,Sorcery,Choose land or nonland. Reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and the rest on the bottom of your library in a random order.,,,G,G,common,Commander Masters,cmm,269,Iris Compiet,2023-08-04,https://scryfall.com/card/cmm/269/abundant-harvest?utm_source=api,Spell
+A-Buy Your Silence,{4}{W},5.0,Instant,"Exile target nonland permanent. Its controller creates a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",,,W,W,common,Streets of New Capenna,snc,A-6,Tony Foti,2022-04-29,https://scryfall.com/card/snc/A-6/a-buy-your-silence?utm_source=api,Spell
+Abzan Advantage,{1}{W},2.0,Instant,Target player sacrifices an enchantment of their choice. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.),,,W,W,common,Fate Reforged,frf,2,Winona Nelson,2015-01-23,https://scryfall.com/card/frf/2/abzan-advantage?utm_source=api,Spell
+Abzan Ascendancy,{W}{B}{G},3.0,Enchantment,"When this enchantment enters, put a +1/+1 counter on each creature you control.
+Whenever a nontoken creature you control dies, create a 1/1 white Spirit creature token with flying.",,,"B,G,W","B,G,W",rare,Double Masters 2022,2x2,165,Mark Winters,2022-07-08,https://scryfall.com/card/2x2/165/abzan-ascendancy?utm_source=api,Spell
+Abzan Banner,{3},3.0,Artifact,"{T}: Add {W}, {B}, or {G}.
+{W}{B}{G}, {T}, Sacrifice this artifact: Draw a card.",,,"","B,G,W",common,Khans of Tarkir,ktk,215,Daniel Ljunggren,2014-09-26,https://scryfall.com/card/ktk/215/abzan-banner?utm_source=api,Spell
+Abzan Charm,{W}{B}{G},3.0,Instant,"Choose one —
+• Exile target creature with power 3 or greater.
+• You draw two cards and you lose 2 life.
+• Distribute two +1/+1 counters among one or two target creatures.",,,"B,G,W","B,G,W",uncommon,Dominaria United Commander,dmc,138,Mathias Kollros,2022-09-09,https://scryfall.com/card/dmc/138/abzan-charm?utm_source=api,Spell
+Abzan Monument,{2},2.0,Artifact,"When this artifact enters, search your library for a basic Plains, Swamp, or Forest card, reveal it, put it into your hand, then shuffle.
+{1}{W}{B}{G}, {T}, Sacrifice this artifact: Create an X/X white Spirit creature token, where X is the greatest toughness among creatures you control. Activate only as a sorcery.",,,"","B,G,W",uncommon,Tarkir: Dragonstorm,tdm,238,Jorge Jacinto,2025-04-11,https://scryfall.com/card/tdm/238/abzan-monument?utm_source=api,Spell
+Abzan Runemark,{2}{W},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2.
+Enchanted creature has vigilance as long as you control a black or green permanent.",,,W,W,common,Fate Reforged,frf,3,James Ryman,2015-01-23,https://scryfall.com/card/frf/3/abzan-runemark?utm_source=api,Spell
+A-Cabaretti Charm,{R}{G}{W},3.0,Instant,"Choose one —
+• Cabaretti Charm deals damage equal to twice the number of creatures you control to target creature or planeswalker.
+• Creatures you control get +1/+1 and gain trample until end of turn.
+• Create two 1/1 green and white Citizen creature tokens.",,,"G,R,W","G,R,W",uncommon,Streets of New Capenna,snc,A-173,Steve Argyle,2022-04-29,https://scryfall.com/card/snc/A-173/a-cabaretti-charm?utm_source=api,Spell
+Academic Dispute,{R},1.0,Instant,"Target creature blocks this turn if able. You may have it gain reach until end of turn.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)",,,R,R,uncommon,Strixhaven: School of Mages,stx,91,Manuel Castañón,2021-04-23,https://scryfall.com/card/stx/91/academic-dispute?utm_source=api,Spell
+Academic Probation,{1}{W},2.0,Sorcery — Lesson,"Choose one —
+• Choose a nonland card name. Opponents can't cast spells with the chosen name until your next turn.
+• Choose target nonland permanent. Until your next turn, it can't attack or block, and its activated abilities can't be activated.",,,W,W,rare,Strixhaven: School of Mages,stx,7,Cristi Balanescu,2021-04-23,https://scryfall.com/card/stx/7/academic-probation?utm_source=api,Spell
+A-Capenna Express,{3}{G},4.0,Artifact — Vehicle,"Sacrifice a Treasure: Capenna Express becomes an artifact creature until end of turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",7,7,G,G,common,Streets of New Capenna,snc,A-139,Viko Menezes,2022-04-29,https://scryfall.com/card/snc/A-139/a-capenna-express?utm_source=api,Spell
+A-Carnelian Orb of Dragonkind,{2}{R},3.0,Artifact,"{T}: Add one mana of any color. If that mana is spent on a Dragon creature spell, it gains haste until end of turn.",,,R,R,uncommon,Alchemy Horizons: Baldur's Gate,hbg,A-177,Olena Richards,2022-07-07,https://scryfall.com/card/hbg/A-177/a-carnelian-orb-of-dragonkind?utm_source=api,Spell
+A-Case the Joint,{4}{U},5.0,Sorcery,"Draw three cards, then look at the top card of each player's library.",,,U,U,common,Streets of New Capenna,snc,A-37,Stella Spente,2022-04-29,https://scryfall.com/card/snc/A-37/a-case-the-joint?utm_source=api,Spell
+Accelerate,{1}{R},2.0,Instant,"Target creature gains haste until end of turn.
+Draw a card.",,,R,R,common,Torment,tor,90,Gary Ruddell,2002-02-04,https://scryfall.com/card/tor/90/accelerate?utm_source=api,Spell
+Accelerated Mutation,{3}{G}{G},5.0,Instant,"Target creature gets +X/+X until end of turn, where X is the greatest mana value among permanents you control.",,,G,G,common,Scourge,scg,109,"Edward P. Beard, Jr.",2003-05-26,https://scryfall.com/card/scg/109/accelerated-mutation?utm_source=api,Spell
+Acceptable Losses,{3}{R},4.0,Sorcery,"As an additional cost to cast this spell, discard a card at random.
+Acceptable Losses deals 5 damage to target creature.",,,R,R,common,Odyssey,ody,172,Mike Ploog,2001-10-01,https://scryfall.com/card/ody/172/acceptable-losses?utm_source=api,Spell
+Access Denied,{3}{U}{U},5.0,Instant,"Counter target spell. Create X 1/1 colorless Thopter artifact creature tokens with flying, where X is that spell's mana value.",,,U,U,rare,Neon Dynasty Commander,nec,11,Johan Grenier,2022-02-18,https://scryfall.com/card/nec/11/access-denied?utm_source=api,Spell
+Accessories to Murder,"",0.0,Artifact — Contraption,"Whenever you crank this Contraption, target creature gets +X/+0 until end of turn, where X is the number of creatures you control.",,,"","",uncommon,Unstable,ust,167,Ralph Horsley,2017-12-08,https://scryfall.com/card/ust/167/accessories-to-murder?utm_source=api,Spell
+Accorder's Shield,{0},0.0,Artifact — Equipment,"Equipped creature gets +0/+3 and has vigilance. (Attacking doesn't cause it to tap.)
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",,,"","",uncommon,Magic 2014,m14,204,Alan Pollack,2013-07-19,https://scryfall.com/card/m14/204/accorders-shield?utm_source=api,Spell
+Accumulated Knowledge,{1}{U},2.0,Instant,"Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.",,,U,U,common,Masters 25,a25,40,Randy Gallegos,2018-03-16,https://scryfall.com/card/a25/40/accumulated-knowledge?utm_source=api,Spell
+Accumulate Wisdom,{1}{U},2.0,Instant — Lesson,Look at the top three cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order. Put each of those cards into your hand instead if there are three or more Lesson cards in your graveyard.,,,U,U,uncommon,Avatar: The Last Airbender,tla,44,Gemi,2025-11-21,https://scryfall.com/card/tla/44/accumulate-wisdom?utm_source=api,Spell
+Ace's Baseball Bat,{2},2.0,Legendary Artifact — Equipment,"Equipped creature gets +3/+0.
+As long as equipped creature is attacking, it has first strike and must be blocked by a Dalek if able.
+Equip legendary creature {1}
+Equip {3}",,,"","",rare,Doctor Who,who,170,L J Koh,2023-10-13,https://scryfall.com/card/who/170/aces-baseball-bat?utm_source=api,Spell
+"""Ach! Hans, Run!""",{2}{R}{R}{G}{G},6.0,Enchantment,"At the beginning of your upkeep, you may say ""Ach! Hans, run! It's the . . ."" and the name of a creature card. If you do, search your library for a card with that name, put it onto the battlefield, then shuffle. That creature gains haste. Exile it at the beginning of the next end step.",,,"G,R","G,R",rare,Unhinged,unh,116,Quinton Hoover,2004-11-19,https://scryfall.com/card/unh/116/ach!-hans-run!?utm_source=api,Spell
+Acidic Dagger,{4},4.0,Artifact,"{4}, {T}: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice this artifact. Activate only before blockers are declared.",,,"","",rare,Mirage,mir,291,Stuart Beel,1996-10-08,https://scryfall.com/card/mir/291/acidic-dagger?utm_source=api,Spell
+Acidic Soil,{2}{R},3.0,Sorcery,Acidic Soil deals damage to each player equal to the number of lands they control.,,,R,R,uncommon,Urza's Saga,usg,172,Scott M. Fischer,1998-10-12,https://scryfall.com/card/usg/172/acidic-soil?utm_source=api,Spell
+Acid Rain,{3}{U},4.0,Sorcery,Destroy all Forests.,,,U,U,rare,Masters Edition IV,me4,36,NéNé Thomas,2011-01-10,https://scryfall.com/card/me4/36/acid-rain?utm_source=api,Spell
+Acolyte of Bahamut,{1}{G},2.0,Legendary Enchantment — Background,"Commander creatures you own have ""The first Dragon spell you cast each turn costs {2} less to cast.""",,,G,G,uncommon,Commander Legends: Battle for Baldur's Gate,clb,212,Kai Carpenter,2022-06-10,https://scryfall.com/card/clb/212/acolyte-of-bahamut?utm_source=api,Spell
+Acolyte's Reward,{1}{W},2.0,Instant,"Prevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, Acolyte's Reward deals that much damage to any target. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)",,,W,W,uncommon,Born of the Gods,bng,1,Slawomir Maniak,2014-02-07,https://scryfall.com/card/bng/1/acolytes-reward?utm_source=api,Spell
+A-Cori-Steel Cutter,{1}{R},2.0,Artifact — Equipment,"Equipped creature has haste.
+Flurry — Whenever you cast your second spell each turn, create a 1/1 white Monk creature token with prowess. You may attach this Equipment to it.
+Equip {1}{R}",,,R,R,rare,Tarkir: Dragonstorm,tdm,A-103,Xabi Gaztelua,2025-04-11,https://scryfall.com/card/tdm/A-103/a-cori-steel-cutter?utm_source=api,Spell
+Acorn Catapult,{4},4.0,Artifact,"{1}, {T}: This artifact deals 1 damage to any target. That permanent's controller or that player creates a 1/1 green Squirrel creature token.",,,"","",rare,Commander 2011,cmd,241,Jesper Ejsing,2011-06-17,https://scryfall.com/card/cmd/241/acorn-catapult?utm_source=api,Spell
+Acorn Harvest,{3}{G},4.0,Sorcery,"Create two 1/1 green Squirrel creature tokens.
+Flashback—{1}{G}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,G,G,common,Torment,tor,118,"Edward P. Beard, Jr.",2002-02-04,https://scryfall.com/card/tor/118/acorn-harvest?utm_source=api,Spell
+A-Cosmos Elixir,{4},4.0,Artifact,"At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life and scry 1.",,,"","",rare,Kaldheim,khm,A-237,Volkan Baǵa,2021-02-05,https://scryfall.com/card/khm/A-237/a-cosmos-elixir?utm_source=api,Spell
+Acquire,{3}{U}{U},5.0,Sorcery,Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles.,,,U,U,rare,Fifth Dawn,5dn,21,Daren Bader,2004-06-04,https://scryfall.com/card/5dn/21/acquire?utm_source=api,Spell
+Acquired Mutation,{2}{R},3.0,Enchantment — Aura,"Enchant creature
+Enchanted creature gets +2/+2 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)
+Whenever enchanted creature attacks, defending player gets two rad counters.",,,R,R,uncommon,Fallout,pip,53,Xavier Ribeiro,2024-03-08,https://scryfall.com/card/pip/53/acquired-mutation?utm_source=api,Spell
+Acrobatic Leap,{W},1.0,Instant,Target creature gets +1/+3 and gains flying until end of turn. Untap it.,,,W,W,common,Avatar: The Last Airbender Eternal,tle,151,Ionomycin,2025-11-21,https://scryfall.com/card/tle/151/acrobatic-leap?utm_source=api,Spell
+Acrobatic Maneuver,{2}{W},3.0,Instant,"Exile target creature you control, then return that card to the battlefield under its owner's control.
+Draw a card.",,,W,W,common,Kaladesh,kld,1,Winona Nelson,2016-09-30,https://scryfall.com/card/kld/1/acrobatic-maneuver?utm_source=api,Spell
+Active Volcano,{R},1.0,Instant,"Choose one —
+• Destroy target blue permanent.
+• Return target Island to its owner's hand.",,,R,R,uncommon,Masters Edition III,me3,85,Justin Hampton,2009-09-07,https://scryfall.com/card/me3/85/active-volcano?utm_source=api,Spell
+Act of Aggression,{3}{R/P}{R/P},5.0,Instant,"({R/P} can be paid with either {R} or 2 life.)
+Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.",,,R,R,uncommon,Commander 2015,c15,141,Whit Brachna,2015-11-13,https://scryfall.com/card/c15/141/act-of-aggression?utm_source=api,Spell
+Act of Authority,{1}{W}{W},3.0,Enchantment,"When this enchantment enters, you may exile target artifact or enchantment.
+At the beginning of your upkeep, you may exile target artifact or enchantment. If you do, its controller gains control of this enchantment.",,,W,W,rare,Commander 2013,c13,1,Véronique Meignaud,2013-11-01,https://scryfall.com/card/c13/1/act-of-authority?utm_source=api,Spell
+Act of Heroism,{1}{W},2.0,Instant,Untap target creature. It gets +2/+2 until end of turn and can block an additional creature this turn.,,,W,W,common,Masters 25,a25,1,Magali Villeneuve,2018-03-16,https://scryfall.com/card/a25/1/act-of-heroism?utm_source=api,Spell
+Act of Treason,{2}{R},3.0,Sorcery,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.),,,R,R,common,Ravnica Remastered,rvr,99,Scott Murphy,2024-01-12,https://scryfall.com/card/rvr/99/act-of-treason?utm_source=api,Spell
+Act on Impulse,{2}{R},3.0,Sorcery,"Exile the top three cards of your library. Until end of turn, you may play those cards. (If you cast a spell this way, you still pay its costs. You can play a land this way only if you have an available land play remaining.)",,,R,R,uncommon,Magic 2015,m15,126,Brad Rigney,2014-07-18,https://scryfall.com/card/m15/126/act-on-impulse?utm_source=api,Spell
+Adamant Will,{1}{W},2.0,Instant,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",,,W,W,common,Foundations,fdn,488,Irina Nordsol,2024-11-15,https://scryfall.com/card/fdn/488/adamant-will?utm_source=api,Spell
+Adaptive Omnitool,{2},2.0,Artifact — Equipment,"Equipped creature gets +1/+1 for each artifact you control.
+Whenever equipped creature attacks, look at the top six cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Equip {3}",,,"","",rare,Aetherdrift Commander,drc,16,Adrián Rodríguez Pérez,2025-02-14,https://scryfall.com/card/drc/16/adaptive-omnitool?utm_source=api,Spell
+Adaptive Training Post,{2}{U},3.0,Artifact,"Whenever you cast an instant or sorcery spell, if this artifact has fewer than three charge counters on it, put a charge counter on it.
+Remove three charge counters from this artifact: When you next cast an instant or sorcery spell this turn, copy it and you may choose new targets for the copy.",,,U,U,rare,Tarkir: Dragonstorm Commander,tdc,18,Ben Maier,2025-04-11,https://scryfall.com/card/tdc/18/adaptive-training-post?utm_source=api,Spell
+Addle,{1}{B},2.0,Sorcery,Choose a color. Target player reveals their hand and you choose a card of that color from it. That player discards that card.,,,B,B,common,Vintage Masters,vma,103,Ron Spears,2014-06-16,https://scryfall.com/card/vma/103/addle?utm_source=api,Spell
+A-Deal Gone Bad,{3}{B},4.0,Instant,Target creature gets -3/-3 until end of turn. Target player mills three cards. You gain 3 life.,,,B,B,common,Streets of New Capenna,snc,A-74,Mathias Kollros,2022-04-29,https://scryfall.com/card/snc/A-74/a-deal-gone-bad?utm_source=api,Spell
+A-Demon's Due,{3}{B},4.0,Instant,Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.,,,B,B,common,Streets of New Capenna,snc,A-75,Slawomir Maniak,2022-04-29,https://scryfall.com/card/snc/A-75/a-demons-due?utm_source=api,Spell
+Admiral's Order,{1}{U}{U},3.0,Instant,"Raid — If you attacked this turn, you may pay {U} rather than pay this spell's mana cost.
+Counter target spell.",,,U,U,rare,Rivals of Ixalan,rix,31,Slawomir Maniak,2018-01-19,https://scryfall.com/card/rix/31/admirals-order?utm_source=api,Spell
+Ad Nauseam,{3}{B}{B},5.0,Instant,Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. You may repeat this process any number of times.,,,B,B,rare,Double Masters,2xm,76,Jeremy Jarvis,2020-08-07,https://scryfall.com/card/2xm/76/ad-nauseam?utm_source=api,Spell
+Adrestia,{3},3.0,Legendary Artifact — Vehicle,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Whenever Adrestia attacks, if an Assassin crewed it this turn, draw a card. Adrestia becomes an Assassin in addition to its other types until end of turn.
+Crew 1",4,3,"","",uncommon,Assassin's Creed,acr,68,Mintautas Šukys,2024-07-05,https://scryfall.com/card/acr/68/adrestia?utm_source=api,Spell
+Adriana's Valor,"",0.0,Conspiracy,"Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
+Whenever a creature you control with the chosen name attacks, you may pay {W}. If you do, that creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",,,"",W,common,Conspiracy: Take the Crown,cn2,1,Lius Lasahido,2016-08-26,https://scryfall.com/card/cn2/1/adrianas-valor?utm_source=api,Spell
+A-Druid Class,{1}{G},2.0,Enchantment — Class,"(Gain the next level as a sorcery to add its ability.)
+Landfall — Whenever a land enters under your control, you gain 1 life.
+{2}{G}: Level 2
+You may play an additional land on each of your turns.
+{2}{G}: Level 3
+When this Class becomes level 3, target land you control becomes a creature with haste and ""This creature's power and toughness are each equal to the number of lands you control."" It's still a land.",,,G,G,uncommon,Adventures in the Forgotten Realms,afr,A-180,Svetlin Velinov,2021-07-23,https://scryfall.com/card/afr/A-180/a-druid-class?utm_source=api,Spell
+A-Druidic Ritual,{2}{G},3.0,Sorcery,You may mill three cards. Then return up to two creature and/or land cards from your graveyard to your hand.,,,G,G,common,Alchemy Horizons: Baldur's Gate,hbg,A-208,Vincent Christiaens,2022-07-07,https://scryfall.com/card/hbg/A-208/a-druidic-ritual?utm_source=api,Spell
+Advantageous Proclamation,"",0.0,Conspiracy,"(Start the game with this conspiracy face up in the command zone.)
+Your minimum deck size is reduced by five.",,,"","",uncommon,Conspiracy,cns,1,Izzy,2014-06-06,https://scryfall.com/card/cns/1/advantageous-proclamation?utm_source=api,Spell
+Advent of the Wurm,{1}{G}{G}{W},4.0,Instant,Create a 5/5 green Wurm creature token with trample.,,,"G,W","G,W",rare,Modern Masters 2017,mm3,147,Lucas Graciano,2017-03-17,https://scryfall.com/card/mm3/147/advent-of-the-wurm?utm_source=api,Spell
+Adventure Awaits,{1}{G},2.0,Sorcery,"Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, draw a card.",,,G,G,common,Zendikar Rising,znr,177,Billy Christian,2020-09-25,https://scryfall.com/card/znr/177/adventure-awaits?utm_source=api,Spell
+Adventurer's Airship,{3},3.0,Artifact — Vehicle,"Flying
+Whenever this Vehicle attacks, draw a card, then discard a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",3,2,"","",common,Final Fantasy,fin,252,Racrufi,2025-06-13,https://scryfall.com/card/fin/252/adventurers-airship?utm_source=api,Spell
+Adventuring Gear,{1},1.0,Artifact — Equipment,"Landfall — Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",,,"","",uncommon,Foundations,fdn,249,Howard Lyon,2024-11-15,https://scryfall.com/card/fdn/249/adventuring-gear?utm_source=api,Spell
+Adventurous Impulse,{G},1.0,Sorcery,Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,,,G,G,common,Ikoria: Lair of Behemoths,iko,142,Victor Adame Minguez,2020-04-24,https://scryfall.com/card/iko/142/adventurous-impulse?utm_source=api,Spell
+Adverse Conditions,{3}{U},4.0,Instant,"Devoid (This card has no color.)
+Tap up to two target creatures. Those creatures don't untap during their controller's next untap step. Create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this token: Add {C}.""",,,"",U,uncommon,Battle for Zendikar,bfz,54,Jason Rainville,2015-10-02,https://scryfall.com/card/bfz/54/adverse-conditions?utm_source=api,Spell
+Advice from the Fae,{2/U}{2/U}{2/U},6.0,Sorcery,"({2/U} can be paid with any two mana or with {U}. This card's mana value is 6.)
+Look at the top five cards of your library. If you control more creatures than each other player, put two of those cards into your hand. Otherwise, put one of them into your hand. Then put the rest on the bottom of your library in any order.",,,U,U,uncommon,Shadowmoor,shm,28,Chippy,2008-05-02,https://scryfall.com/card/shm/28/advice-from-the-fae?utm_source=api,Spell
+Aegis of Honor,{W},1.0,Enchantment,"{1}: The next time an instant or sorcery spell would deal damage to you this turn, that spell deals that damage to its controller instead.",,,W,W,rare,Odyssey,ody,1,Ron Spears,2001-10-01,https://scryfall.com/card/ody/1/aegis-of-honor?utm_source=api,Spell
+Aegis of the Heavens,{1}{W},2.0,Instant,Target creature gets +1/+7 until end of turn.,,,W,W,uncommon,Jumpstart,jmp,79,Anthony Palumbo,2020-07-17,https://scryfall.com/card/jmp/79/aegis-of-the-heavens?utm_source=api,Spell
+Aegis of the Legion,{R}{W},2.0,Artifact — Equipment,"Equipped creature gets +1/+1 and has mentor. (Whenever it attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Whenever equipped creature mentors a creature, put a shield counter on that creature. (If that creature would be dealt damage or destroyed, remove a shield counter from it instead.)
+Equip {3}",,,"R,W","R,W",rare,Ravnica: Clue Edition,clu,22,Alexandre Honoré,2024-02-23,https://scryfall.com/card/clu/22/aegis-of-the-legion?utm_source=api,Spell
+Aegis of the Meek,{3},3.0,Artifact,"{1}, {T}: Target 1/1 creature gets +1/+2 until end of turn.",,,"","",rare,Ice Age,ice,307,Allen Williams,1995-06-03,https://scryfall.com/card/ice/307/aegis-of-the-meek?utm_source=api,Spell
+A-Ellywick Tumblestrum,{2}{G}{G},4.0,Legendary Planeswalker — Ellywick,"+1: Venture into the dungeon. (Enter the first room or advance to the next room.)
+−2: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order.
+−6: You get an emblem with ""Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed.""",,,G,G,mythic,Adventures in the Forgotten Realms,afr,A-181,Anna Steinbauer,2021-07-23,https://scryfall.com/card/afr/A-181/a-ellywick-tumblestrum?utm_source=api,Spell
+A-Elven Bow,{G},1.0,Artifact — Equipment,"When Elven Bow enters, you may pay {1}. If you do, create a 1/1 green Elf Warrior creature token, then attach Elven Bow to it.
+Equipped creature gets +1/+2 and has reach.
+Equip {3}",,,G,G,uncommon,Kaldheim,khm,A-166,Dallas Williams,2021-02-05,https://scryfall.com/card/khm/A-166/a-elven-bow?utm_source=api,Spell
+Aeolipile,{2},2.0,Artifact,"{1}, {T}, Sacrifice this artifact: It deals 2 damage to any target.",,,"","",common,Masters Edition II,me2,202,Heather Hudson,2008-09-22,https://scryfall.com/card/me2/202/aeolipile?utm_source=api,Spell
+Aeon Engine,{5},5.0,Artifact,"This artifact enters tapped.
+{T}, Exile this artifact: Reverse the game's turn order. (For example, if play had proceeded clockwise around the table, it now goes counterclockwise.)",,,"","",rare,Commander 2019,c19,52,Ralph Horsley,2019-08-23,https://scryfall.com/card/c19/52/aeon-engine?utm_source=api,Spell
+Aerial Assault,{2}{W},3.0,Sorcery,Destroy target tapped creature. You gain 1 life for each creature you control with flying.,,,W,W,common,Jumpstart,jmp,80,Dan Murayama Scott,2020-07-17,https://scryfall.com/card/jmp/80/aerial-assault?utm_source=api,Spell
+Aerial Boost,{1}{W},2.0,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Target creature gets +2/+2 and gains flying until end of turn.",,,W,W,common,March of the Machine,mom,2,Artur Nakhodkin,2023-04-21,https://scryfall.com/card/mom/2/aerial-boost?utm_source=api,Spell
+Aerial Formation,{U},1.0,Instant,"Strive — This spell costs {2}{U} more to cast for each target beyond the first.
+Any number of target creatures each get +1/+1 and gain flying until end of turn.",,,U,U,common,Journey into Nyx,jou,30,Zack Stella,2014-05-02,https://scryfall.com/card/jou/30/aerial-formation?utm_source=api,Spell
+Aerial Maneuver,{1}{W},2.0,Instant,Target creature gets +1/+1 and gains flying and first strike until end of turn.,,,W,W,common,Gatecrash,gtc,1,Scott Chou,2013-02-01,https://scryfall.com/card/gtc/1/aerial-maneuver?utm_source=api,Spell
+Aerial Modification,{4}{W},5.0,Enchantment — Aura,"Enchant creature or Vehicle
+As long as enchanted permanent is a Vehicle, it's a creature in addition to its other types.
+Enchanted creature gets +2/+2 and has flying.",,,W,W,uncommon,Aether Revolt,aer,1,Jung Park,2017-01-20,https://scryfall.com/card/aer/1/aerial-modification?utm_source=api,Spell
+Aerial Predation,{2}{G},3.0,Instant,Destroy target creature with flying. You gain 2 life.,,,G,G,common,Iconic Masters,ima,154,BD,2017-11-17,https://scryfall.com/card/ima/154/aerial-predation?utm_source=api,Spell
+Aerial Surveyor,{2}{W},3.0,Artifact — Vehicle,"Flying
+Whenever this Vehicle attacks, if defending player controls more lands than you, search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.
+Crew 2",3,4,W,W,rare,Neon Dynasty Commander,nec,5,Antonio José Manzanedo,2022-02-18,https://scryfall.com/card/nec/5/aerial-surveyor?utm_source=api,Spell
+Aerial Volley,{G},1.0,Instant,"Aerial Volley deals 3 damage divided as you choose among one, two, or three target creatures with flying.",,,G,G,common,Magic Origins,ori,168,Lake Hurwitz,2015-07-17,https://scryfall.com/card/ori/168/aerial-volley?utm_source=api,Spell
+Aerith Rescue Mission,{3}{W},4.0,Sorcery,"Choose one —
+• Take the Elevator — Create three 1/1 colorless Hero creature tokens.
+• Take 59 Flights of Stairs — Tap up to three target creatures. Put a stun counter on one of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)",,,W,W,common,Final Fantasy,fin,5,Hokuyuu,2025-06-13,https://scryfall.com/card/fin/5/aerith-rescue-mission?utm_source=api,Spell
+Aeronaut's Wings,{2},2.0,Artifact — Equipment,"Equipped creature gets +1/+0 and has flying.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,"","",common,The Brothers' War,bro,231,Leon Tukker,2022-11-18,https://scryfall.com/card/bro/231/aeronauts-wings?utm_source=api,Spell
+Aesthetic Consultation,{B},1.0,Instant,"Choose an artist. Exile the top six cards of your library, then reveal cards from the top of your library until you reveal a card with art by the chosen artist. Put that card in your hand and exile all other cards revealed this way.",,,B,B,rare,Unhinged,unh,48,David “Help Me” Martin,2004-11-19,https://scryfall.com/card/unh/48/aesthetic-consultation?utm_source=api,Spell
+Aether Barrier,{2}{U},3.0,Enchantment,"Whenever a player casts a creature spell, that player sacrifices a permanent of their choice unless they pay {1}.",,,U,U,rare,Nemesis,nem,27,David Martin,2000-02-14,https://scryfall.com/card/nem/27/aether-barrier?utm_source=api,Spell
+Aether Burst,{1}{U},2.0,Instant,"Return up to X target creatures to their owners' hands, where X is one plus the number of cards named Aether Burst in all graveyards as you cast this spell.",,,U,U,common,Odyssey,ody,60,Adam Rex,2001-10-01,https://scryfall.com/card/ody/60/aether-burst?utm_source=api,Spell
+Aether Charge,{4}{R},5.0,Enchantment,"Whenever a Beast you control enters, you may have it deal 4 damage to target opponent or planeswalker.",,,R,R,uncommon,Onslaught,ons,184,Mark Brill,2002-10-07,https://scryfall.com/card/ons/184/aether-charge?utm_source=api,Spell
+Aether Flash,{2}{R}{R},4.0,Enchantment,"Whenever a creature enters, this enchantment deals 2 damage to it.",,,R,R,uncommon,Seventh Edition,7ed,172,Wayne England,2001-04-11,https://scryfall.com/card/7ed/172/aether-flash?utm_source=api,Spell
+Aetherflux Conduit,{6},6.0,Artifact,"Whenever you cast a spell, you get an amount of {E} (energy counters) equal to the amount of mana spent to cast that spell.
+{T}, Pay fifty {E}: Draw seven cards. You may cast any number of spells from your hand without paying their mana costs.",,,"","",rare,Aetherdrift Commander,drc,17,Michael Phillippi,2025-02-14,https://scryfall.com/card/drc/17/aetherflux-conduit?utm_source=api,Spell
+Aetherflux Reservoir,{4},4.0,Artifact,"Whenever you cast a spell, you gain 1 life for each spell you've cast this turn.
+Pay 50 life: This artifact deals 50 damage to any target.",,,"","",rare,Kaladesh,kld,192,Cliff Childs,2016-09-30,https://scryfall.com/card/kld/192/aetherflux-reservoir?utm_source=api,Spell
+Aether Gale,{3}{U}{U},5.0,Sorcery,Return six target nonland permanents to their owners' hands.,,,U,U,rare,Duskmourn: House of Horror Commander,dsc,109,Jack Wang,2024-09-27,https://scryfall.com/card/dsc/109/aether-gale?utm_source=api,Spell
+Aether Gust,{1}{U},2.0,Instant,Choose target spell or permanent that's red or green. Its owner puts it on their choice of the top or bottom of their library.,,,U,U,uncommon,Core Set 2020,m20,42,Tomasz Jedruszek,2019-07-12,https://scryfall.com/card/m20/42/aether-gust?utm_source=api,Spell
+Aether Helix,{3}{G}{U},5.0,Sorcery,Return target permanent to its owner's hand. Return target permanent card from your graveyard to your hand.,,,"G,U","G,U",uncommon,Strixhaven: School of Mages,stx,162,Torstein Nordstrand,2021-04-23,https://scryfall.com/card/stx/162/aether-helix?utm_source=api,Spell
+Aetheric Amplifier,{3},3.0,Artifact,"{T}: Add one mana of any color.
+{4}, {T}: Choose one. Activate only as a sorcery.
+• Double the number of each kind of counter on target permanent.
+• Double the number of each kind of counter you have.",,,"","",rare,Aetherdrift Commander,drc,18,Victor Sales,2025-02-14,https://scryfall.com/card/drc/18/aetheric-amplifier?utm_source=api,Spell
+Aetherize,{3}{U},4.0,Instant,Return all attacking creatures to their owner's hand.,,,U,U,uncommon,Foundations,fdn,151,Alexandre Honoré,2024-11-15,https://scryfall.com/card/fdn/151/aetherize?utm_source=api,Spell
+Aethermage's Touch,{2}{W}{U},4.0,Instant,"Reveal the top four cards of your library. You may put a creature card from among them onto the battlefield. It gains ""At the beginning of your end step, return this creature to its owner's hand."" Then put the rest of the cards revealed this way on the bottom of your library in any order.",,,"U,W","U,W",uncommon,Double Masters 2022,2x2,167,Randy Gallegos,2022-07-08,https://scryfall.com/card/2x2/167/aethermages-touch?utm_source=api,Spell
+Aether Meltdown,{1}{U},2.0,Enchantment — Aura,"Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature or Vehicle
+When this Aura enters, you get {E}{E} (two energy counters).
+Enchanted creature gets -4/-0.",,,U,U,uncommon,Kaladesh,kld,36,Jason Felix,2016-09-30,https://scryfall.com/card/kld/36/aether-meltdown?utm_source=api,Spell
+Aether Mutation,{3}{G}{U},5.0,Sorcery,"Return target creature to its owner's hand. Create X 1/1 green Saproling creature tokens, where X is that creature's mana value.",,,"G,U","G,U",uncommon,Vintage Masters,vma,241,Ron Spencer,2014-06-16,https://scryfall.com/card/vma/241/aether-mutation?utm_source=api,Spell
+Aether Refinery,{4}{R}{R},6.0,Artifact,"If you would get one or more {E} (energy counters), you get twice that many {E} instead.
+{T}: You get {E}, then you may pay one or more {E}. If you do, create an X/X black Aetherborn creature token, where X is the amount of {E} paid this way.",,,R,R,rare,Modern Horizons 3 Commander,m3c,54,Daniel Ljunggren,2024-06-14,https://scryfall.com/card/m3c/54/aether-refinery?utm_source=api,Spell
+Aether Revolt,{2}{R}{R},4.0,Enchantment,"Revolt — As long as a permanent left the battlefield under your control this turn, if a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
+Whenever you get one or more {E}, this enchantment deals that much damage to any target.",,,R,R,rare,Modern Horizons 3,mh3,113,Filipe Pagliuso,2024-06-14,https://scryfall.com/card/mh3/113/aether-revolt?utm_source=api,Spell
+Aether Rift,{1}{R}{G},3.0,Enchantment,"At the beginning of your upkeep, discard a card at random. If you discard a creature card this way, return it from your graveyard to the battlefield unless any player pays 5 life.",,,"G,R","G,R",rare,Invasion,inv,227,Heather Hudson,2000-10-02,https://scryfall.com/card/inv/227/aether-rift?utm_source=api,Spell
+Aether Shockwave,{3}{W},4.0,Instant,"Choose one —
+• Tap all Spirits.
+• Tap all non-Spirit creatures.",,,W,W,uncommon,Saviors of Kamigawa,sok,1,Stephen Tappin,2005-06-03,https://scryfall.com/card/sok/1/aether-shockwave?utm_source=api,Spell
+Aether Snap,{3}{B}{B},5.0,Sorcery,Remove all counters from all permanents and exile all tokens.,,,B,B,rare,New Capenna Commander,ncc,241,Kev Walker,2022-04-29,https://scryfall.com/card/ncc/241/aether-snap?utm_source=api,Spell
+Aethersnatch,{4}{U}{U},6.0,Instant,"Gain control of target spell. You may choose new targets for it. (If that spell becomes a permanent, it enters under your control.)",,,U,U,rare,Commander 2015,c15,9,Aaron Miller,2015-11-13,https://scryfall.com/card/c15/9/aethersnatch?utm_source=api,Spell
+Aether Spellbomb,{1},1.0,Artifact,"{U}, Sacrifice this artifact: Return target creature to its owner's hand.
+{1}, Sacrifice this artifact: Draw a card.",,,"",U,common,Jumpstart,jmp,456,Jim Nelson,2020-07-17,https://scryfall.com/card/jmp/456/aether-spellbomb?utm_source=api,Spell
+Aethersphere Harvester,{3},3.0,Artifact — Vehicle,"Flying
+When this Vehicle enters, you get {E}{E} (two energy counters).
+Pay {E}: This Vehicle gains lifelink until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",3,5,"","",rare,Aether Revolt,aer,142,Christine Choi,2017-01-20,https://scryfall.com/card/aer/142/aethersphere-harvester?utm_source=api,Spell
+Aether Spike,{1}{U},2.0,Instant,"Choose target spell. You get {E}{E} (two energy counters), then you may pay any amount of {E}. Counter that spell unless its controller pays {1} for each {E} paid this way.",,,U,U,common,Modern Horizons 3,mh3,50,Campbell White,2024-06-14,https://scryfall.com/card/mh3/50/aether-spike?utm_source=api,Spell
+Aetherspouts,{3}{U}{U},5.0,Instant,"For each attacking creature, its owner puts it on their choice of the top or bottom of their library.",,,U,U,rare,Midnight Hunt Commander,mic,97,Dan Murayama Scott,2021-09-24,https://scryfall.com/card/mic/97/aetherspouts?utm_source=api,Spell
