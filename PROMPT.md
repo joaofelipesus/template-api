@@ -7,11 +7,11 @@ When the data is imported create an index on an Elasticsearch instance running o
 
 Configure JSON API format and create the controllers cards and decks with the following actions:
 1. cards:
-    - search: must use elasticsearch index to fetch the cards, use JSON API format;
+    - search: must use elasticsearch index to fetch the cards, use JSON API format (/api/cards/search);
 2. decks:
-    - show: show the deck and the list of related cards
-    - index: a list with Decks and the count of related cards sorted by name asc;
+    - show: show the deck and the list of related cards (/api/decks/:id)
+    - index: a list with Decks and the count of related cards sorted by name asc (/api/decks);
 3. deck_cards:
-    - create: POST request that receives a card_id and a deck_id and relates both cards
+    - create: POST request that receives a card_id and a deck_id and relates both cards (/api/deck_cards)
 
 All routes must be under the namespace `api`, for example `/api/decks`
