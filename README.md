@@ -32,18 +32,30 @@ A Rails 8.1 API for managing Companies, Projects, Users, and Tasks.
 
 ## Setup
 
+### Prerequisites
+
+- Ruby 3.4.6
+- PostgreSQL 13 or higher
+
+### Installation
+
 1. Install dependencies:
 ```bash
 bundle install
 ```
 
-2. Create and migrate the database:
+2. Configure your database:
+   - For development, ensure PostgreSQL is running locally
+   - The app will connect using default PostgreSQL settings (localhost:5432)
+   - No username/password required for local development (uses system user)
+
+3. Create and migrate the database:
 ```bash
 bin/rails db:create
 bin/rails db:migrate
 ```
 
-3. (Optional) Seed the database with sample data:
+4. (Optional) Seed the database with sample data:
 ```bash
 bin/rails db:seed
 ```
@@ -55,7 +67,7 @@ This will create:
 - 30+ Tasks distributed across projects
 - Multiple user-project assignments (many-to-many relationships)
 
-4. Start the server:
+5. Start the server:
 ```bash
 bin/rails server
 ```
@@ -105,7 +117,15 @@ Ruby 3.4.6
 
 ## Database
 
-SQLite3 (development/test)
+PostgreSQL (development/test/production)
+
+### Database Configuration
+
+- **Development**: `template_api_development`
+- **Test**: `template_api_test`
+- **Production**: `template_api_production`
+
+For production deployment with Kamal, the PostgreSQL database is configured as an accessory service. See `config/deploy.yml` for details.
 
 ## Testing
 

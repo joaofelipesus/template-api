@@ -40,15 +40,18 @@ registry:
 env:
   secret:
     - RAILS_MASTER_KEY
-  # clear:
-  #   # Set number of cores available to the application on each server (default: 1).
-  #   WEB_CONCURRENCY: auto
+    - DATABASE_PASSWORD
+  clear:
+    # Set number of cores available to the application on each server (default: 1).
+    # WEB_CONCURRENCY: auto
 
-  #   # Match this to any external database server to configure Active Record correctly
-  #   DB_HOST: 192.168.0.2
+    # Match this to the PostgreSQL database server to configure Active Record correctly
+    DATABASE_HOST: 192.168.0.1
+    DATABASE_USER: template_api
+    DATABASE_PORT: 5432
 
-  #   # Log everything from Rails
-  #   RAILS_LOG_LEVEL: debug
+    # Log everything from Rails
+    # RAILS_LOG_LEVEL: debug
 
 # Aliases are triggered with "bin/kamal <alias>". You can overwrite arguments on invocation:
 # "bin/kamal logs -r job" will tail logs from the first server in the job section.
@@ -58,7 +61,7 @@ aliases:
   logs: app logs -f
   dbc: app exec --interactive --reuse "bin/rails dbconsole --include-password"
 
-# Use a persistent storage volume for sqlite database files and local Active Storage files.
+# Use a persistent storage volume for local Active Storage files.
 # Recommended to change this to a mounted volume path that is backed up off server.
 volumes:
   - "api_storage:/rails/storage"
@@ -83,22 +86,20 @@ builder:
 #   user: app
 
 # Use accessory services (secrets come from .kamal/secrets).
-# accessories:
-#   db:
-#     image: mysql:8.0
-#     host: 192.168.0.2
-#     # Change to 3306 to expose port to the world instead of just local network.
-#     port: "127.0.0.1:3306:3306"
-#     env:
-#       clear:
-#         MYSQL_ROOT_HOST: '%'
-#       secret:
-#         - MYSQL_ROOT_PASSWORD
-#     files:
-#       - config/mysql/production.cnf:/etc/mysql/my.cnf
-#       - db/production.sql:/docker-entrypoint-initdb.d/setup.sql
-#     directories:
-#       - data:/var/lib/mysql
+accessories:
+  db:
+    image: postgres:17
+    host: 192.168.0.1
+    # Change to 5432 to expose port to the world instead of just local network.
+    port: "127.0.0.1:5432:5432"
+    env:
+      clear:
+        POSTGRES_USER: template_api
+        POSTGRES_DB: template_api_production
+      secret:
+        - POSTGRES_PASSWORD
+    directories:
+      - data:/var/lib/postgresql/data
 #   redis:
 #     image: valkey/valkey:8
 #     host: 192.168.0.2
