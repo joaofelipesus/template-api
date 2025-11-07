@@ -7,4 +7,17 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "posts#index"
+
+  # API routes
+  namespace :api do
+    resources :cards, only: [] do
+      collection do
+        get :search
+      end
+    end
+
+    resources :decks, only: [:index, :show]
+
+    resources :deck_cards, only: [:create]
+  end
 end
