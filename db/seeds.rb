@@ -54,6 +54,7 @@ books_data.each do |book_data|
   book = Book.find_or_create_by!(
     title: book_data[:title],
     subtitle: book_data[:subtitle],
+    description: book_data[:description],
     isbn: book_data[:isbn],
     pages: book_data[:pages],
   )

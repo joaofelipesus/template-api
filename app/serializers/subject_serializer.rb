@@ -1,7 +1,7 @@
 class SubjectSerializer
   include JSONAPI::Serializer
 
-  attributes :name, :created_at, :updated_at
+  attributes :name
 
   has_many :books
 end
