@@ -19,7 +19,7 @@ namespace :elasticsearch do
       puts "\nIndexing completed successfully!"
     rescue Faraday::ConnectionFailed => e
       puts "\nError: Could not connect to Elasticsearch."
-      puts "Please ensure Elasticsearch is running on localhost:9200"
+      puts "Please ensure Elasticsearch is running on elasticsearch:9200"
       puts "Error details: #{e.message}"
       exit 1
     rescue => e
