@@ -5,7 +5,7 @@ class UserBooksController < ApplicationController
     render json: {
       data: user_books.map do |user_book|
         {
-          type: 'user_books',
+          type: 'user_book',
           id: user_book.id.to_s,
           attributes: {
             progress_percentage: user_book.progress_percentage,
@@ -15,16 +15,17 @@ class UserBooksController < ApplicationController
           relationships: {
             book: {
               data: {
-                type: 'books',
+                type: 'book',
                 id: user_book.book.id.to_s
               }
             }
           }
         }
       end,
+
       included: user_books.map(&:book).uniq.map do |book|
         {
-          type: 'books',
+          type: 'book',
           id: book.id.to_s,
           attributes: {
             title: book.title,
