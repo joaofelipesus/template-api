@@ -6,6 +6,5 @@ class BooksController < ApplicationController
     books = books.where("title LIKE ?", "%#{params[:q]}%") if params[:q].present?
 
     render json: BookSerializer.new(books, included: [:authors, :subjects]).serializable_hash
-
   end
 end
