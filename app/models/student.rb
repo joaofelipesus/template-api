@@ -20,6 +20,13 @@ class Student < ApplicationRecord
     graduate!
   end
 
+  def self.create_new_student!(name:, age:)
+    student = create!(name:, age:)
+    Graduation.create!(student:, belt: Belt.white)
+
+    student.reload
+  end
+
   private
 
   def graduate!

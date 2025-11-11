@@ -12,9 +12,9 @@ before_action :set_student, only: [:show, :update]
   end
 
   def create
-    @student = Student.new(student_params)
+    @student = Student.create_new_student!(student_params)
 
-    if @student.save
+    if @student.persisted?
       render json: @student, status: :created
     else
       render json: @student.errors, status: :unprocessable_entity

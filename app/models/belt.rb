@@ -5,8 +5,12 @@ class Belt < ApplicationRecord
   validates :name, :presences_required, presence: true
   validates :name, uniqueness: true
 
+  def self.white
+    find_by!(name: "White")
+  end
+
   def black?
-    name == "black"
+    name == "Black"
   end
 
   def next
