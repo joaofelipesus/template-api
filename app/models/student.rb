@@ -19,8 +19,11 @@ class Student < ApplicationRecord
   end
 
   def self.create_new_student!(name:, age:)
-    student = create!(name:, age:)
-    Graduation.create!(student:, belt: Belt.white)
+    student = create(name:, age:)
+
+    return student if student.invalid?
+
+    Graduation.create(student:, belt: Belt.white)
 
     student.reload
   end

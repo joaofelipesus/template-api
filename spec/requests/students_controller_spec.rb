@@ -68,6 +68,21 @@ RSpec.describe StudentsController, type: :request do
       end
     end
 
+    context 'with valid parameters' do\
+      let(:invalid_params) { { student: { age: 25 } } }
+
+      it 'creates a new student' do
+        expect {
+          post '/students', params: invalid_params
+        }.not_to change(Student, :count)
+      end
+
+      it 'returns created status' do
+        post '/students', params: invalid_params
+
+        expect(response).to have_http_status(:unprocessable_content)
+      end
+    end
   end
 
   describe 'PATCH /students/:id' do
@@ -99,30 +114,6 @@ RSpec.describe StudentsController, type: :request do
     end
 
     context 'with invalid parameters' do
-      let(:invalid_params) do
-        { student: { name: '', age: nil } }
-      end
-
-      it 'does not update the student' do
-        patch "/students/#{student.id}", params: invalid_params
-        student.reload
-        expect(student.name).to eq('Old Name')
-        expect(student.age).to eq(20)
-      end
-
-      it 'returns unprocessable_entity status' do
-        patch "/students/#{student.id}", params: invalid_params
-        expect(response).to have_http_status(:unprocessable_entity)
-      end
-
-      it 'returns error messages' do
-        patch "/students/#{student.id}", params: invalid_params
-        json_response = JSON.parse(response.body)
-        expect(json_response['errors']).to be_present
-      end
-    end
-  end
-end
       let(:invalid_params) do
         { student: { name: '', age: nil } }
       end

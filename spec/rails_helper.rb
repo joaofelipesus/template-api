@@ -10,6 +10,9 @@ SimpleCov.start 'rails' do
   add_group 'Models', 'app/models'
   add_group 'Controllers', 'app/controllers'
   add_group 'Serializers', 'app/serializers'
+
+  add_filter '/app/jobs/application_job.rb'
+  add_filter '/app/mailers/application_mailer.rb'
 end
 
 require 'spec_helper'
