@@ -10,11 +10,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2025_11_11_123556) do
+ActiveRecord::Schema[8.1].define(version: 2025_11_11_124842) do
   create_table "belts", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.string "name"
     t.integer "presences_required"
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "students", force: :cascade do |t|
+    t.integer "age"
+    t.datetime "created_at", null: false
+    t.string "name"
     t.datetime "updated_at", null: false
   end
 end
