@@ -16,7 +16,7 @@ before_action :set_student, only: [:show, :update]
   end
 
   def create
-    @student = Student.create_new_student!(student_params)
+    @student = Student.create_new_student!(name: student_params[:name], age: student_params[:age])
 
     if @student.persisted?
       render json: StudentSerializer.new(@student).serializable_hash, status: :created

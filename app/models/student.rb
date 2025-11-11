@@ -8,16 +8,14 @@ class Student < ApplicationRecord
     graduations.includes(:belt).order(created_at: :desc).first.belt
   end
 
-  def current_belt_presences_count
-    presences.where(current_belt: belt).count
-  end
-
   def add_presence
-    presences.create(current_belt: belt)
+    presence = presences.create(current_belt_id: belt.id)
 
     return if belt.black?
 
     graduate!
+
+    presence
   end
 
   def self.create_new_student!(name:, age:)
@@ -25,6 +23,10 @@ class Student < ApplicationRecord
     Graduation.create!(student:, belt: Belt.white)
 
     student.reload
+  end
+
+  def current_belt_presences_count
+    presences.where(current_belt: belt).count
   end
 
   private

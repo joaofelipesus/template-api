@@ -46,6 +46,6 @@ ActiveRecord::Schema[8.1].define(version: 2025_11_11_125241) do
 
   add_foreign_key "graduations", "belts"
   add_foreign_key "graduations", "students"
-  add_foreign_key "presences", "current_belts"
+  add_foreign_key "presences", "belts", column: "current_belt_id"
   add_foreign_key "presences", "students"
 end
