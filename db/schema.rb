@@ -10,12 +10,21 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2025_11_11_125113) do
+ActiveRecord::Schema[8.1].define(version: 2025_11_11_125241) do
   create_table "belts", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.string "name"
     t.integer "presences_required"
     t.datetime "updated_at", null: false
+  end
+
+  create_table "graduations", force: :cascade do |t|
+    t.integer "belt_id", null: false
+    t.datetime "created_at", null: false
+    t.integer "student_id", null: false
+    t.datetime "updated_at", null: false
+    t.index ["belt_id"], name: "index_graduations_on_belt_id"
+    t.index ["student_id"], name: "index_graduations_on_student_id"
   end
 
   create_table "presences", force: :cascade do |t|
@@ -36,6 +45,8 @@ ActiveRecord::Schema[8.1].define(version: 2025_11_11_125113) do
     t.datetime "updated_at", null: false
   end
 
+  add_foreign_key "graduations", "belts"
+  add_foreign_key "graduations", "students"
   add_foreign_key "presences", "current_belts"
   add_foreign_key "presences", "students"
 end
