@@ -18,7 +18,7 @@ class Student < ApplicationRecord
     presence
   end
 
-   def self.create_new_student!(name:, age:)
+  def self.create_new_student!(name:, age:)
     student = create(name:, age:)
 
     return student if student.invalid?
