@@ -4,28 +4,32 @@ before_action :set_student, only: [:show, :update]
   def index
     @students = Student.all
 
-    render json: @students
+    render json: StudentSerializer.new(@students).serializable_hash
   end
 
   def show
-    render json: @student
+    render(
+      json: StudentSerializer
+        .new(@student, include: [:presences, :graduations ])
+        .serializable_hash
+    )
   end
 
   def create
     @student = Student.create_new_student!(student_params)
 
     if @student.persisted?
-      render json: @student, status: :created
+      render json: StudentSerializer.new(@student).serializable_hash, status: :created
     else
-      render json: @student.errors, status: :unprocessable_entity
+      render json: { errors: @student.errors.full_messages.map { |msg| { detail: msg } } }, status: :unprocessable_entity
     end
   end
 
   def update
     if @student.update(student_params)
-      render json: @student
+      render json: StudentSerializer.new(@student).serializable_hash
     else
-      render json: @student.errors, status: :unprocessable_entity
+      render json: { errors: @student.errors.full_messages.map { |msg| { detail: msg } } }, status: :unprocessable_entity
     end
   end
 
