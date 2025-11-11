@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student: one
+  current_belt: one
+  current_presences_count: 1
+  graduate: false
+
+two:
+  student: two
+  current_belt: two
+  current_presences_count: 1
+  graduate: false
