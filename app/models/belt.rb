@@ -4,4 +4,14 @@ class Belt < ApplicationRecord
 
   validates :name, :presences_required, presence: true
   validates :name, uniqueness: true
+
+  def black?
+    name == "black"
+  end
+
+  def next
+    raise "Black belt is the last graduation" if black?
+
+    Belt.where(sequence_index: sequence_index + 1)
+  end
 end

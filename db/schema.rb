@@ -15,6 +15,7 @@ ActiveRecord::Schema[8.1].define(version: 2025_11_11_125241) do
     t.datetime "created_at", null: false
     t.string "name"
     t.integer "presences_required"
+    t.integer "sequence_index"
     t.datetime "updated_at", null: false
   end
 
@@ -30,8 +31,6 @@ ActiveRecord::Schema[8.1].define(version: 2025_11_11_125241) do
   create_table "presences", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.integer "current_belt_id", null: false
-    t.integer "current_presences_count"
-    t.boolean "graduate", default: false
     t.integer "student_id", null: false
     t.datetime "updated_at", null: false
     t.index ["current_belt_id"], name: "index_presences_on_current_belt_id"

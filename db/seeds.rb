@@ -7,8 +7,8 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
-Belt.find_or_create_by(name: "White", presences_required: 0)
-Belt.find_or_create_by(name: "Blue", presences_required: 100)
-Belt.find_or_create_by(name: "Purple", presences_required: 250)
-Belt.find_or_create_by(name: "Brown", presences_required: 400)
-Belt.find_or_create_by(name: "Black", presences_required: 600)
+Belt.find_or_create_by(name: "White", presences_required: 0, sequence_index: 1)
+Belt.find_or_create_by(name: "Blue", presences_required: 100, sequence_index: 2)
+Belt.find_or_create_by(name: "Purple", presences_required: 250, sequence_index: 3)
+Belt.find_or_create_by(name: "Brown", presences_required: 400, sequence_index: 4)
+Belt.find_or_create_by(name: "Black", presences_required: 600, sequence_index: 5)
